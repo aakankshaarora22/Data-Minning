@@ -1,0 +1,1198 @@
+date,quarter,department,day,team,targeted_productivity,smv,wip,over_time,incentive,idle_time,idle_men,no_of_style_change,no_of_workers,actual_productivity
+2015-01-01,Quarter1,sewing,Thursday,8,0.8,26.16,1108,7080,98,0,0,0,59,1
+2015-01-01,Quarter1,finishing ,Thursday,1,0.75,3.94,,960,0,0,0,0,8,1
+2015-01-01,Quarter1,sewing,Thursday,11,0.8,11.41,968,3660,50,0,0,0,30.5,1
+2015-01-01,Quarter1,sewing,Thursday,12,0.8,11.41,968,3660,50,0,0,0,30.5,1
+2015-01-01,Quarter1,sewing,Thursday,6,0.8,25.9,1170,1920,50,0,0,0,56,1
+2015-01-01,Quarter1,sewing,Thursday,7,0.8,25.9,984,6720,38,0,0,0,56,1
+2015-01-01,Quarter1,finishing ,Thursday,2,0.75,3.94,,960,0,0,0,0,8,1
+2015-01-01,Quarter1,sewing,Thursday,3,0.75,28.08,795,6900,45,0,0,0,57.5,1
+2015-01-01,Quarter1,sewing,Thursday,2,0.75,19.87,733,6000,34,0,0,0,55,1
+2015-01-01,Quarter1,sewing,Thursday,1,0.75,28.08,681,6900,45,0,0,0,57.5,1
+2015-01-01,Quarter1,sewing,Thursday,9,0.7,28.08,872,6900,44,0,0,0,57.5,0
+2015-01-01,Quarter1,sewing,Thursday,10,0.75,19.31,578,6480,45,0,0,0,54,0
+2015-01-01,Quarter1,sewing,Thursday,5,0.8,11.41,668,3660,50,0,0,0,30.5,0
+2015-01-01,Quarter1,finishing ,Thursday,10,0.65,3.94,,960,0,0,0,0,8,0
+2015-01-01,Quarter1,finishing ,Thursday,8,0.75,2.9,,960,0,0,0,0,8,0
+2015-01-01,Quarter1,finishing ,Thursday,4,0.75,3.94,,2160,0,0,0,0,18,0
+2015-01-01,Quarter1,finishing ,Thursday,7,0.8,2.9,,960,0,0,0,0,8,0
+2015-01-01,Quarter1,sewing,Thursday,4,0.65,23.69,861,7200,0,0,0,0,60,0
+2015-01-01,Quarter1,finishing,Thursday,11,0.7,4.15,,1440,0,0,0,0,12,0
+2015-01-03,Quarter1,finishing ,Saturday,4,0.8,4.15,,6600,0,0,0,0,20,1
+2015-01-03,Quarter1,finishing ,Saturday,11,0.75,2.9,,5640,0,0,0,0,17,1
+2015-01-03,Quarter1,finishing ,Saturday,9,0.8,4.15,,960,0,0,0,0,8,1
+2015-01-03,Quarter1,finishing ,Saturday,3,0.75,3.94,,1560,0,0,0,0,8,1
+2015-01-03,Quarter1,finishing ,Saturday,1,0.8,3.94,,960,0,0,0,0,8,1
+2015-01-03,Quarter1,sewing,Saturday,1,0.8,28.08,772,6300,50,0,0,0,56.5,1
+2015-01-03,Quarter1,sewing,Saturday,3,0.8,28.08,913,6540,50,0,0,0,54.5,1
+2015-01-03,Quarter1,sewing,Saturday,8,0.8,26.16,1261,7080,50,0,0,0,59,1
+2015-01-03,Quarter1,sewing,Saturday,12,0.8,26.16,844,7080,63,0,0,0,59,1
+2015-01-03,Quarter1,sewing,Saturday,11,0.8,11.61,1005,7080,50,0,0,0,29.5,1
+2015-01-03,Quarter1,sewing,Saturday,5,0.8,11.61,659,7080,50,0,0,0,31.5,1
+2015-01-03,Quarter1,sewing,Saturday,6,0.8,25.9,1152,6720,50,0,0,0,56,1
+2015-01-03,Quarter1,sewing,Saturday,7,0.8,25.9,1138,6720,38,0,0,0,56,1
+2015-01-03,Quarter1,sewing,Saturday,10,0.75,19.31,610,6480,56,0,0,0,54,1
+2015-01-03,Quarter1,finishing ,Saturday,2,0.8,4.15,,960,0,0,0,0,8,1
+2015-01-03,Quarter1,sewing,Saturday,2,0.75,19.87,944,6600,45,0,0,0,55,1
+2015-01-03,Quarter1,finishing ,Saturday,10,0.7,4.15,,960,0,0,0,0,8,0
+2015-01-03,Quarter1,sewing,Saturday,4,0.7,23.69,544,13800,0,0,0,0,60,0
+2015-01-03,Quarter1,sewing,Saturday,9,0.7,28.08,1072,6900,40,0,0,0,57.5,0
+2015-01-03,Quarter1,finishing ,Saturday,8,0.8,2.9,,960,0,0,0,0,8,0
+2015-01-03,Quarter1,finishing ,Saturday,7,0.8,3.94,,960,0,0,0,0,8,0
+2015-01-04,Quarter1,finishing ,Sunday,3,0.75,4.15,,1560,0,0,0,0,8,1
+2015-01-04,Quarter1,finishing ,Sunday,9,0.8,3.94,,960,0,0,0,0,8,1
+2015-01-04,Quarter1,finishing ,Sunday,1,0.8,3.94,,960,0,0,0,0,8,1
+2015-01-04,Quarter1,sewing,Sunday,6,0.8,11.61,539,6975,50,0,0,0,31,1
+2015-01-04,Quarter1,finishing ,Sunday,4,0.8,3.94,,6600,0,0,0,0,20,1
+2015-01-04,Quarter1,sewing,Sunday,9,0.8,26.16,1278,7080,60,0,0,0,59,1
+2015-01-04,Quarter1,sewing,Sunday,7,0.8,25.9,1227,7020,60,0,0,0,56.5,1
+2015-01-04,Quarter1,sewing,Sunday,8,0.8,25.9,1039,6780,45,0,0,0,56.5,1
+2015-01-04,Quarter1,sewing,Sunday,4,0.8,28.08,878,4260,50,0,0,0,55.5,1
+2015-01-04,Quarter1,sewing,Sunday,1,0.8,26.16,1033,7080,63,0,0,0,59,1
+2015-01-04,Quarter1,sewing,Sunday,2,0.8,28.08,782,6660,50,0,0,0,55.5,1
+2015-01-04,Quarter1,sewing,Sunday,12,0.8,11.61,1216,6975,50,0,0,0,31,1
+2015-01-04,Quarter1,finishing ,Sunday,2,0.8,3.94,,960,0,0,0,0,8,1
+2015-01-04,Quarter1,finishing ,Sunday,10,0.7,3.94,,4320,0,0,0,0,18,1
+2015-01-04,Quarter1,sewing,Sunday,11,0.75,19.31,513,6480,45,0,0,0,54,1
+2015-01-04,Quarter1,sewing,Sunday,3,0.75,19.87,734,6600,45,0,0,0,55,1
+2015-01-04,Quarter1,sewing,Sunday,10,0.7,28.08,1202,6900,40,0,0,0,57.5,0
+2015-01-04,Quarter1,finishing ,Sunday,8,0.8,2.9,,960,0,0,0,0,8,0
+2015-01-04,Quarter1,finishing ,Sunday,7,0.8,2.9,,960,0,0,0,0,8,0
+2015-01-04,Quarter1,sewing,Sunday,5,0.7,45.67,884,6960,26,0,0,0,58,0
+2015-01-04,Quarter1,finishing ,Sunday,11,0.75,4.15,,960,0,0,0,0,8,0
+2015-01-05,Quarter1,finishing ,Monday,1,0.8,3.94,,1920,0,0,0,0,8,1
+2015-01-05,Quarter1,finishing ,Monday,11,0.8,3.94,,2400,0,0,0,0,10,1
+2015-01-05,Quarter1,finishing ,Monday,4,0.8,3.94,,3840,0,0,0,0,16,1
+2015-01-05,Quarter1,finishing ,Monday,3,0.75,4.15,,1920,0,0,0,0,8,1
+2015-01-05,Quarter1,sewing,Monday,9,0.8,26.16,1227,7080,75,0,0,0,59,1
+2015-01-05,Quarter1,finishing ,Monday,9,0.8,2.9,,1920,0,0,0,0,8,1
+2015-01-05,Quarter1,finishing ,Monday,2,0.8,3.94,,960,0,0,0,0,8,1
+2015-01-05,Quarter1,sewing,Monday,7,0.8,25.9,1255,6780,50,0,0,0,56.5,1
+2015-01-05,Quarter1,sewing,Monday,8,0.8,25.9,1047,6780,38,0,0,0,56.5,1
+2015-01-05,Quarter1,sewing,Monday,1,0.8,26.16,1138,7080,63,0,0,0,59,1
+2015-01-05,Quarter1,sewing,Monday,11,0.8,19.31,678,4800,50,0,0,0,55,1
+2015-01-05,Quarter1,sewing,Monday,6,0.8,11.61,712,7200,50,0,0,0,32,1
+2015-01-05,Quarter1,sewing,Monday,12,0.8,11.61,1037,7200,50,0,0,0,32,1
+2015-01-05,Quarter1,sewing,Monday,2,0.8,28.08,757,6900,50,0,0,0,57.5,1
+2015-01-05,Quarter1,sewing,Monday,4,0.8,28.08,759,6900,50,0,0,0,57.5,1
+2015-01-05,Quarter1,finishing ,Monday,10,0.75,2.9,,960,0,0,0,0,8,1
+2015-01-05,Quarter1,finishing ,Monday,5,0.6,2.9,,960,0,0,0,0,8,1
+2015-01-05,Quarter1,sewing,Monday,10,0.75,28.08,1083,7020,45,0,0,0,58.5,1
+2015-01-05,Quarter1,sewing,Monday,3,0.75,19.87,944,6600,45,0,0,0,55,1
+2015-01-05,Quarter1,finishing ,Monday,7,0.8,3.94,,960,0,0,0,0,8,0
+2015-01-05,Quarter1,finishing ,Monday,8,0.8,2.9,,960,0,0,0,0,8,0
+2015-01-05,Quarter1,sewing,Monday,5,0.6,21.98,666,6960,23,0,0,0,58,0
+2015-01-06,Quarter1,finishing ,Tuesday,4,0.8,3.94,,4440,0,0,0,0,18,1
+2015-01-06,Quarter1,finishing ,Tuesday,1,0.8,3.94,,1440,0,0,0,0,8,1
+2015-01-06,Quarter1,finishing ,Tuesday,3,0.75,4.15,,1800,0,0,0,0,10,1
+2015-01-06,Quarter1,finishing ,Tuesday,11,0.8,4.15,,2700,0,0,0,0,15,1
+2015-01-06,Quarter1,finishing ,Tuesday,9,0.8,3.94,,1440,0,0,0,0,8,1
+2015-01-06,Quarter1,sewing,Tuesday,1,0.8,26.16,1187,10620,75,0,0,0,59,1
+2015-01-06,Quarter1,sewing,Tuesday,9,0.8,26.16,1305,10620,75,0,0,0,59,1
+2015-01-06,Quarter1,finishing ,Tuesday,10,0.75,3.94,,1440,0,0,0,0,8,1
+2015-01-06,Quarter1,finishing ,Tuesday,2,0.8,3.94,,1440,0,0,0,0,8,1
+2015-01-06,Quarter1,sewing,Tuesday,2,0.8,28.08,716,10350,50,0,0,0,57.5,1
+2015-01-06,Quarter1,sewing,Tuesday,4,0.8,28.08,925,10350,50,0,0,0,57.5,1
+2015-01-06,Quarter1,sewing,Tuesday,3,0.8,19.87,963,9900,50,0,0,0,55,1
+2015-01-06,Quarter1,sewing,Tuesday,12,0.8,11.61,1101,5310,50,0,0,0,31.5,1
+2015-01-06,Quarter1,sewing,Tuesday,7,0.8,25.9,1035,10170,38,0,0,0,56.5,1
+2015-01-06,Quarter1,sewing,Tuesday,8,0.8,25.9,1083,10170,38,0,0,0,56.5,1
+2015-01-06,Quarter1,sewing,Tuesday,6,0.8,11.61,910,4470,38,0,0,0,31.5,1
+2015-01-06,Quarter1,sewing,Tuesday,10,0.75,28.08,1209,10530,45,0,0,0,58.5,1
+2015-01-06,Quarter1,sewing,Tuesday,11,0.75,19.31,590,9900,45,0,0,0,55,1
+2015-01-06,Quarter1,finishing ,Tuesday,8,0.8,2.9,,1440,0,0,0,0,8,0
+2015-01-06,Quarter1,sewing,Tuesday,5,0.65,21.98,808,10440,35,0,0,0,58,0
+2015-01-06,Quarter1,finishing ,Tuesday,7,0.8,2.9,,1440,0,0,0,0,8,0
+2015-01-07,Quarter1,finishing ,Wednesday,1,0.8,3.94,,1440,0,0,0,0,8,1
+2015-01-07,Quarter1,finishing ,Wednesday,9,0.8,3.94,,1440,0,0,0,0,8,1
+2015-01-07,Quarter1,sewing,Wednesday,1,0.8,26.16,1179,10620,75,0,0,0,59,1
+2015-01-07,Quarter1,sewing,Wednesday,9,0.8,26.16,1324,10620,75,0,0,0,59,1
+2015-01-07,Quarter1,sewing,Wednesday,8,0.8,25.9,1135,10170,60,0,0,0,56.5,1
+2015-01-07,Quarter1,finishing ,Wednesday,3,0.75,4.15,,2700,0,0,0,0,15,1
+2015-01-07,Quarter1,finishing ,Wednesday,4,0.8,3.94,,4440,0,0,0,0,18,1
+2015-01-07,Quarter1,finishing ,Wednesday,2,0.8,3.94,,1440,0,0,0,0,8,1
+2015-01-07,Quarter1,finishing ,Wednesday,10,0.75,3.94,,1440,0,0,0,0,8,1
+2015-01-07,Quarter1,finishing ,Wednesday,7,0.8,2.9,,1440,0,0,0,0,8,1
+2015-01-07,Quarter1,sewing,Wednesday,2,0.8,28.08,776,10350,63,0,0,0,57.5,1
+2015-01-07,Quarter1,sewing,Wednesday,4,0.8,28.08,990,10350,50,0,0,0,57.5,1
+2015-01-07,Quarter1,sewing,Wednesday,6,0.8,11.41,986,5490,50,0,0,0,30.5,1
+2015-01-07,Quarter1,sewing,Wednesday,3,0.8,19.87,924,9900,50,0,0,0,55,1
+2015-01-07,Quarter1,sewing,Wednesday,12,0.8,11.61,1120,5670,50,0,0,0,31.5,1
+2015-01-07,Quarter1,sewing,Wednesday,7,0.8,25.9,1066,10170,50,0,0,0,56.5,1
+2015-01-07,Quarter1,sewing,Wednesday,10,0.75,28.08,1144,10530,69,0,0,0,58.5,1
+2015-01-07,Quarter1,sewing,Wednesday,5,0.7,21.98,413,9720,40,0,0,0,58,0
+2015-01-07,Quarter1,finishing ,Wednesday,8,0.8,2.9,,1440,0,0,0,0,8,0
+2015-01-07,Quarter1,finishing ,Wednesday,6,0.8,2.9,,1800,0,0,0,0,10,0
+2015-01-07,Quarter1,sewing,Wednesday,11,0.8,31.83,568,9900,40,0,0,0,55,0
+2015-01-07,Quarter1,finishing ,Wednesday,5,0.7,4.15,,1440,0,0,0,0,8,0
+2015-01-08,Quarter2,finishing ,Thursday,1,0.8,3.94,,1440,0,0,0,0,8,1
+2015-01-08,Quarter2,finishing ,Thursday,4,0.8,3.94,,12600,0,0,0,0,20,1
+2015-01-08,Quarter2,sewing,Thursday,9,0.8,26.16,1216,10620,88,0,0,0,59,1
+2015-01-08,Quarter2,finishing ,Thursday,9,0.8,3.94,,1440,0,0,0,0,8,1
+2015-01-08,Quarter2,sewing,Thursday,1,0.8,26.16,1189,10620,75,0,0,0,59,1
+2015-01-08,Quarter2,sewing,Thursday,4,0.8,28.08,942,10530,75,0,0,0,58.5,1
+2015-01-08,Quarter2,sewing,Thursday,7,0.8,25.9,1050,10170,60,0,0,0,56.5,1
+2015-01-08,Quarter2,sewing,Thursday,8,0.8,25.9,1026,10170,60,0,0,0,56.5,1
+2015-01-08,Quarter2,finishing ,Thursday,2,0.8,3.94,,1440,0,0,0,0,8,1
+2015-01-08,Quarter2,finishing ,Thursday,5,0.7,4.15,,3840,0,0,0,0,8,1
+2015-01-08,Quarter2,sewing,Thursday,2,0.8,28.08,783,10050,63,0,0,0,58.5,1
+2015-01-08,Quarter2,sewing,Thursday,3,0.8,19.87,857,9900,50,0,0,0,55,1
+2015-01-08,Quarter2,sewing,Thursday,12,0.8,11.61,548,15120,63,0,0,0,31.5,1
+2015-01-08,Quarter2,sewing,Thursday,6,0.8,11.41,411,14640,50,0,0,0,30.5,1
+2015-01-08,Quarter2,sewing,Thursday,10,0.75,28.08,1066,10530,69,0,0,0,58.5,1
+2015-01-08,Quarter2,finishing ,Thursday,10,0.75,3.94,,1440,0,0,0,0,8,1
+2015-01-08,Quarter2,finishing ,Thursday,8,0.8,2.9,,1440,0,0,0,0,8,1
+2015-01-08,Quarter2,finishing ,Thursday,3,0.75,4.15,,2160,0,0,0,0,12,0
+2015-01-08,Quarter2,finishing ,Thursday,7,0.8,2.9,,1440,0,0,0,0,8,0
+2015-01-08,Quarter2,finishing ,Thursday,11,0.8,4.15,,900,0,0,0,0,5,0
+2015-01-08,Quarter2,sewing,Thursday,11,0.35,12.52,287,25920,38,0,0,0,54,0
+2015-01-08,Quarter2,sewing,Thursday,5,0.7,42.41,724,10260,0,0,0,0,57,0
+2015-01-10,Quarter2,finishing ,Saturday,1,0.8,3.94,,2160,0,0,0,0,8,1
+2015-01-10,Quarter2,finishing ,Saturday,3,0.75,4.15,,2760,0,0,0,0,12,1
+2015-01-10,Quarter2,finishing ,Saturday,4,0.8,3.94,,6000,0,0,0,0,20,1
+2015-01-10,Quarter2,finishing ,Saturday,9,0.8,3.94,,1440,0,0,0,0,8,1
+2015-01-10,Quarter2,sewing,Saturday,9,0.8,26.16,1122,10620,75,0,0,0,59,1
+2015-01-10,Quarter2,sewing,Saturday,7,0.8,25.9,970,10170,60,0,0,0,56.5,1
+2015-01-10,Quarter2,sewing,Saturday,8,0.8,25.9,1158,10170,60,0,0,0,56.5,1
+2015-01-10,Quarter2,finishing ,Saturday,10,0.8,3.94,,1440,0,0,0,0,8,1
+2015-01-10,Quarter2,finishing ,Saturday,11,0.8,4.15,,1440,0,0,0,0,8,1
+2015-01-10,Quarter2,finishing ,Saturday,2,0.8,3.94,,1440,0,0,0,0,8,1
+2015-01-10,Quarter2,sewing,Saturday,4,0.8,28.08,660,10440,63,0,0,0,58,1
+2015-01-10,Quarter2,sewing,Saturday,2,0.8,28.08,749,10350,63,0,0,0,57.5,1
+2015-01-10,Quarter2,sewing,Saturday,12,0.8,11.61,893,4710,50,0,0,0,31.5,1
+2015-01-10,Quarter2,sewing,Saturday,6,0.8,11.41,887,5490,50,0,0,0,30.5,1
+2015-01-10,Quarter2,sewing,Saturday,1,0.8,26.16,1335,10620,63,0,0,0,59,1
+2015-01-10,Quarter2,sewing,Saturday,10,0.8,28.08,1082,10530,63,0,0,0,58.5,1
+2015-01-10,Quarter2,sewing,Saturday,3,0.75,19.87,1075,7080,45,0,0,0,56,1
+2015-01-10,Quarter2,sewing,Saturday,11,0.5,12.52,749,9540,38,0,0,0,53,0
+2015-01-10,Quarter2,finishing ,Saturday,7,0.8,2.9,,1440,0,0,0,0,8,0
+2015-01-10,Quarter2,finishing ,Saturday,8,0.8,2.9,,1440,0,0,0,0,8,0
+2015-01-10,Quarter2,sewing,Saturday,5,0.5,20.79,966,7680,0,0,0,0,56,0
+2015-01-10,Quarter2,finishing ,Saturday,5,0.5,4.15,,1440,0,0,0,0,8,0
+2015-01-11,Quarter2,finishing ,Sunday,3,0.75,4.15,,1440,0,0,0,0,8,1
+2015-01-11,Quarter2,finishing ,Sunday,4,0.8,3.94,,3600,0,0,0,0,20,1
+2015-01-11,Quarter2,sewing,Sunday,9,0.8,26.16,1095,10620,88,0,0,0,59,1
+2015-01-11,Quarter2,finishing ,Sunday,1,0.8,3.94,,1440,0,0,0,0,8,1
+2015-01-11,Quarter2,finishing ,Sunday,9,0.8,3.94,,1440,0,0,0,0,8,1
+2015-01-11,Quarter2,sewing,Sunday,1,0.8,26.16,1383,10620,75,0,0,0,59,1
+2015-01-11,Quarter2,sewing,Sunday,7,0.8,25.9,1012,10170,45,0,0,0,56.5,1
+2015-01-11,Quarter2,sewing,Sunday,8,0.8,25.9,1209,10170,60,0,0,0,56.5,1
+2015-01-11,Quarter2,finishing ,Sunday,10,0.8,3.94,,1440,0,0,0,0,8,1
+2015-01-11,Quarter2,finishing ,Sunday,2,0.8,3.94,,1440,0,0,0,0,8,1
+2015-01-11,Quarter2,sewing,Sunday,6,0.8,11.41,887,5490,50,0,0,0,30.5,1
+2015-01-11,Quarter2,sewing,Sunday,12,0.8,11.61,896,5670,50,0,0,0,31.5,1
+2015-01-11,Quarter2,sewing,Sunday,2,0.8,28.08,805,10530,63,0,0,0,58.5,1
+2015-01-11,Quarter2,sewing,Sunday,10,0.8,28.08,762,10530,38,0,0,0,58.5,1
+2015-01-11,Quarter2,sewing,Sunday,3,0.8,19.87,1043,6420,0,0,0,0,55,0
+2015-01-11,Quarter2,finishing ,Sunday,11,0.8,4.15,,1440,0,0,0,0,8,0
+2015-01-11,Quarter2,finishing ,Sunday,8,0.8,2.9,,1440,0,0,0,0,8,0
+2015-01-11,Quarter2,finishing ,Sunday,5,0.5,4.15,,1440,0,0,0,0,8,0
+2015-01-11,Quarter2,sewing,Sunday,11,0.6,12.52,831,9540,30,0,0,0,53,0
+2015-01-11,Quarter2,finishing ,Sunday,6,0.8,2.9,,1440,0,0,0,0,8,0
+2015-01-11,Quarter2,finishing ,Sunday,7,0.8,2.9,,1440,0,0,0,0,8,0
+2015-01-11,Quarter2,sewing,Sunday,4,0.8,50.48,562,10440,0,0,0,0,58,0
+2015-01-11,Quarter2,sewing,Sunday,5,0.6,20.79,1208,7980,0,0,0,0,57,0
+2015-01-12,Quarter2,finishing ,Monday,1,0.8,3.94,,1440,0,0,0,0,8,1
+2015-01-12,Quarter2,finishing ,Monday,4,0.35,4.3,,3240,0,0,0,0,18,1
+2015-01-12,Quarter2,finishing ,Monday,3,0.8,4.15,,1800,0,0,0,0,10,1
+2015-01-12,Quarter2,finishing ,Monday,2,0.8,3.94,,1440,0,0,0,0,8,1
+2015-01-12,Quarter2,finishing ,Monday,9,0.8,3.94,,1440,0,0,0,0,8,1
+2015-01-12,Quarter2,sewing,Monday,1,0.8,26.16,1099,8220,75,0,0,0,59,1
+2015-01-12,Quarter2,sewing,Monday,9,0.8,26.16,1093,10620,75,0,0,0,59,1
+2015-01-12,Quarter2,sewing,Monday,7,0.8,25.9,1031,10170,60,0,0,0,56.5,1
+2015-01-12,Quarter2,sewing,Monday,8,0.8,25.9,1233,10170,60,0,0,0,56.5,1
+2015-01-12,Quarter2,finishing ,Monday,6,0.8,2.9,,1440,0,0,0,0,8,1
+2015-01-12,Quarter2,finishing ,Monday,5,0.65,4.15,,1440,0,0,0,0,8,1
+2015-01-12,Quarter2,sewing,Monday,3,0.8,19.87,941,9900,0,0,0,0,55,1
+2015-01-12,Quarter2,sewing,Monday,6,0.8,11.41,843,5670,50,0,0,0,31.5,1
+2015-01-12,Quarter2,sewing,Monday,12,0.8,11.61,760,4470,50,0,0,0,31.5,1
+2015-01-12,Quarter2,sewing,Monday,2,0.8,28.08,737,10530,63,0,0,0,58.5,1
+2015-01-12,Quarter2,finishing ,Monday,8,0.8,2.9,,1440,0,0,0,0,8,0
+2015-01-12,Quarter2,sewing,Monday,10,0.8,50.48,381,6930,45,0,0,0,58.5,0
+2015-01-12,Quarter2,sewing,Monday,5,0.65,20.79,1141,8460,0,0,0,0,59,0
+2015-01-12,Quarter2,sewing,Monday,11,0.65,12.52,1004,9540,44,0,0,0,53,0
+2015-01-12,Quarter2,finishing ,Monday,7,0.8,2.9,,1440,0,0,0,0,8,0
+2015-01-12,Quarter2,finishing ,Monday,11,0.8,4.15,,1440,0,0,0,0,8,0
+2015-01-12,Quarter2,sewing,Monday,4,0.35,22.4,581,7350,0,0,0,0,51.5,0
+2015-01-12,Quarter2,finishing ,Monday,10,0.8,3.94,,1440,0,0,0,0,8,0
+2015-01-13,Quarter2,finishing ,Tuesday,4,0.35,4.3,,2160,0,0,0,0,12,1
+2015-01-13,Quarter2,finishing ,Tuesday,1,0.8,3.94,,1440,0,0,0,0,2,1
+2015-01-13,Quarter2,finishing ,Tuesday,10,0.8,3.94,,5400,0,0,0,0,20,1
+2015-01-13,Quarter2,finishing ,Tuesday,3,0.8,4.15,,1620,0,0,0,0,9,1
+2015-01-13,Quarter2,finishing ,Tuesday,9,0.8,3.94,,1440,0,0,0,0,8,1
+2015-01-13,Quarter2,sewing,Tuesday,1,0.8,26.16,1073,10620,75,0,0,0,59,1
+2015-01-13,Quarter2,sewing,Tuesday,9,0.8,26.16,1156,10620,75,0,0,0,59,1
+2015-01-13,Quarter2,sewing,Tuesday,8,0.8,25.9,1211,10260,60,0,0,0,57,1
+2015-01-13,Quarter2,sewing,Tuesday,7,0.8,25.9,1126,10170,60,0,0,0,56.5,1
+2015-01-13,Quarter2,finishing ,Tuesday,5,0.65,4.15,,1440,0,0,0,0,8,1
+2015-01-13,Quarter2,finishing ,Tuesday,2,0.8,3.94,,1440,0,0,0,0,8,1
+2015-01-13,Quarter2,sewing,Tuesday,6,0.8,11.61,1004,5670,50,0,0,0,31.5,1
+2015-01-13,Quarter2,sewing,Tuesday,12,0.8,11.61,1063,5670,50,0,0,0,31.5,1
+2015-01-13,Quarter2,sewing,Tuesday,2,0.8,28.08,723,10530,50,0,0,0,58.5,1
+2015-01-13,Quarter2,sewing,Tuesday,3,0.8,42.27,465,9900,54,0,0,0,55,0
+2015-01-13,Quarter2,finishing ,Tuesday,8,0.8,2.9,,1440,0,0,0,0,8,0
+2015-01-13,Quarter2,finishing ,Tuesday,7,0.8,2.9,,1440,0,0,0,0,8,0
+2015-01-13,Quarter2,finishing ,Tuesday,11,0.8,4.15,,1440,0,0,0,0,8,0
+2015-01-13,Quarter2,sewing,Tuesday,11,0.7,27.13,530,9540,37,0,0,0,53,0
+2015-01-13,Quarter2,sewing,Tuesday,5,0.7,20.79,1297,10440,0,0,0,0,58,0
+2015-01-13,Quarter2,sewing,Tuesday,4,0.5,22.4,783,10170,23,0,0,0,56.5,0
+2015-01-13,Quarter2,sewing,Tuesday,10,0.35,22.4,715,10170,23,0,0,0,56.5,0
+2015-01-14,Quarter2,finishing ,Wednesday,11,0.8,4.15,,1980,0,0,0,0,7,1
+2015-01-14,Quarter2,finishing ,Wednesday,4,0.35,4.3,,2700,0,0,0,0,8,1
+2015-01-14,Quarter2,sewing,Wednesday,7,0.8,25.9,1150,10170,70,0,0,0,56.5,1
+2015-01-14,Quarter2,finishing ,Wednesday,1,0.8,3.94,,1440,0,0,0,0,8,1
+2015-01-14,Quarter2,finishing ,Wednesday,5,0.65,4.15,,1440,0,0,0,0,15,1
+2015-01-14,Quarter2,finishing ,Wednesday,9,0.8,3.94,,1440,0,0,0,0,8,1
+2015-01-14,Quarter2,sewing,Wednesday,9,0.8,26.16,1232,10620,75,0,0,0,59,1
+2015-01-14,Quarter2,sewing,Wednesday,8,0.8,25.9,1218,10170,60,0,0,0,56.5,1
+2015-01-14,Quarter2,finishing ,Wednesday,7,0.8,2.9,,1440,0,0,0,0,8,1
+2015-01-14,Quarter2,finishing ,Wednesday,3,0.8,4.15,,1440,0,0,0,0,7,1
+2015-01-14,Quarter2,sewing,Wednesday,12,0.8,11.61,1159,2970,50,0,0,0,31.5,1
+2015-01-14,Quarter2,sewing,Wednesday,6,0.8,11.61,972,5670,38,0,0,0,31.5,1
+2015-01-14,Quarter2,sewing,Wednesday,1,0.8,26.16,1092,10620,63,0,0,0,59,1
+2015-01-14,Quarter2,sewing,Wednesday,5,0.7,20.79,965,7320,0,0,0,0,58,0
+2015-01-14,Quarter2,finishing ,Wednesday,8,0.8,2.9,,1440,0,0,0,0,8,0
+2015-01-14,Quarter2,sewing,Wednesday,4,0.6,22.4,816,5100,23,0,0,0,57,0
+2015-01-14,Quarter2,sewing,Wednesday,10,0.5,22.4,947,3390,23,0,0,0,56.5,0
+2015-01-14,Quarter2,sewing,Wednesday,11,0.35,14.61,838,7200,23,0,0,0,55,0
+2015-01-14,Quarter2,finishing ,Wednesday,10,0.8,3.94,,1260,0,0,0,0,8,0
+2015-01-14,Quarter2,sewing,Wednesday,2,0.8,51.02,1086,4260,27,0,0,0,57,0
+2015-01-14,Quarter2,finishing ,Wednesday,2,0.8,3.94,,1260,0,0,0,0,8,0
+2015-01-15,Quarter3,finishing ,Thursday,4,0.35,4.3,,3600,0,0,0,0,20,1
+2015-01-15,Quarter3,finishing ,Thursday,10,0.8,3.94,,3420,0,0,0,0,19,1
+2015-01-15,Quarter3,finishing ,Thursday,1,0.8,3.94,,1440,0,0,0,0,8,1
+2015-01-15,Quarter3,finishing ,Thursday,5,0.65,4.15,,1440,0,0,0,0,8,1
+2015-01-15,Quarter3,finishing ,Thursday,9,0.8,3.94,,1440,0,0,0,0,8,1
+2015-01-15,Quarter3,sewing,Thursday,1,0.8,26.16,1160,10620,75,0,0,0,59,1
+2015-01-15,Quarter3,sewing,Thursday,8,0.8,25.9,1177,8970,60,0,0,0,56.5,1
+2015-01-15,Quarter3,sewing,Thursday,7,0.8,25.9,1281,10170,60,0,0,0,56.5,1
+2015-01-15,Quarter3,sewing,Thursday,9,0.8,26.16,1369,10620,63,0,0,0,59,1
+2015-01-15,Quarter3,sewing,Thursday,6,0.8,11.61,1084,4950,38,0,0,0,31.5,1
+2015-01-15,Quarter3,sewing,Thursday,12,0.8,11.61,1216,4950,50,0,0,0,31.5,1
+2015-01-15,Quarter3,sewing,Thursday,5,0.7,20.79,391,10440,0,0,0,0,58,0
+2015-01-15,Quarter3,finishing ,Thursday,7,0.8,2.9,,1440,0,0,0,0,8,0
+2015-01-15,Quarter3,sewing,Thursday,3,0.5,22.52,1102,10170,30,0,0,0,56.5,0
+2015-01-15,Quarter3,sewing,Thursday,4,0.65,22.52,872,10080,26,0,0,0,56,0
+2015-01-15,Quarter3,finishing ,Thursday,8,0.8,2.9,,1440,0,0,0,0,8,0
+2015-01-15,Quarter3,sewing,Thursday,10,0.6,22.52,1076,10170,23,0,0,0,56.5,0
+2015-01-15,Quarter3,sewing,Thursday,11,0.5,14.89,917,9900,30,0,0,0,55,0
+2015-01-15,Quarter3,sewing,Thursday,2,0.5,22.94,1044,9810,23,0,0,0,54.5,0
+2015-01-17,Quarter3,finishing ,Saturday,5,0.65,4.15,,2700,0,0,0,0,15,1
+2015-01-17,Quarter3,finishing ,Saturday,2,0.8,3.94,,1800,0,0,0,0,10,1
+2015-01-17,Quarter3,finishing ,Saturday,10,0.8,3.94,,1440,0,0,0,0,8,1
+2015-01-17,Quarter3,finishing ,Saturday,1,0.8,3.94,,1440,0,0,0,0,8,1
+2015-01-17,Quarter3,finishing ,Saturday,9,0.8,3.94,,1800,0,0,0,0,10,1
+2015-01-17,Quarter3,sewing,Saturday,6,0.8,11.41,1067,5490,63,0,0,0,30.5,1
+2015-01-17,Quarter3,sewing,Saturday,12,0.8,11.61,1039,5670,63,0,0,0,31.5,1
+2015-01-17,Quarter3,sewing,Saturday,7,0.8,25.9,1396,10170,50,0,0,0,56.5,1
+2015-01-17,Quarter3,sewing,Saturday,8,0.8,25.9,1292,10170,50,0,0,0,56.5,1
+2015-01-17,Quarter3,sewing,Saturday,1,0.8,48.68,171,10620,63,0,0,0,59,1
+2015-01-17,Quarter3,sewing,Saturday,9,0.8,26.16,1128,10620,63,0,0,0,59,1
+2015-01-17,Quarter3,sewing,Saturday,2,0.6,22.94,865,6570,23,0,0,0,56.5,1
+2015-01-17,Quarter3,sewing,Saturday,4,0.7,22.52,825,10170,50,0,0,0,56.5,0
+2015-01-17,Quarter3,finishing ,Saturday,8,0.8,2.9,,1440,0,0,0,0,8,0
+2015-01-17,Quarter3,finishing ,Saturday,7,0.8,2.9,,1440,0,0,0,0,8,0
+2015-01-17,Quarter3,sewing,Saturday,10,0.65,22.52,1163,9720,35,0,0,0,54,0
+2015-01-17,Quarter3,sewing,Saturday,3,0.6,22.52,1140,10170,30,0,0,0,56.5,0
+2015-01-17,Quarter3,sewing,Saturday,11,0.6,14.89,1027,10080,38,0,0,0,56,0
+2015-01-17,Quarter3,finishing ,Saturday,6,0.8,2.9,,900,0,0,0,0,5,0
+2015-01-17,Quarter3,sewing,Saturday,5,0.7,41.19,1052,10440,21,0,0,0,58,0
+2015-01-17,Quarter3,finishing ,Saturday,11,0.8,4.15,,1260,0,0,0,0,7,0
+2015-01-18,Quarter3,finishing ,Sunday,5,0.6,4.15,,1440,0,0,0,0,8,1
+2015-01-18,Quarter3,finishing ,Sunday,11,0.65,4.15,,2160,0,0,0,0,12,1
+2015-01-18,Quarter3,finishing ,Sunday,6,0.8,2.9,,1800,0,0,0,0,10,1
+2015-01-18,Quarter3,sewing,Sunday,6,0.8,11.41,1140,5490,63,0,0,0,30.5,1
+2015-01-18,Quarter3,sewing,Sunday,7,0.8,48.84,624,10170,50,0,0,0,56.5,1
+2015-01-18,Quarter3,sewing,Sunday,8,0.8,25.9,1288,10170,38,0,0,0,56.5,1
+2015-01-18,Quarter3,sewing,Sunday,9,0.8,26.16,1381,3660,50,0,0,0,59,1
+2015-01-18,Quarter3,sewing,Sunday,4,0.7,22.52,882,10170,50,0,0,0,56.5,0
+2015-01-18,Quarter3,sewing,Sunday,10,0.7,22.52,1002,10080,40,0,0,0,56,0
+2015-01-18,Quarter3,finishing ,Sunday,7,0.8,2.9,,1440,0,0,0,0,8,0
+2015-01-18,Quarter3,sewing,Sunday,12,0.8,26.87,585,5670,56,0,0,0,31.5,0
+2015-01-18,Quarter3,sewing,Sunday,3,0.65,22.52,1138,10170,35,0,0,0,56.5,0
+2015-01-18,Quarter3,sewing,Sunday,11,0.65,14.89,1140,10260,44,0,0,0,57,0
+2015-01-18,Quarter3,sewing,Sunday,2,0.65,22.94,1025,10170,26,0,0,0,56.5,0
+2015-01-18,Quarter3,finishing ,Sunday,8,0.8,2.9,,1440,0,0,0,0,8,0
+2015-01-18,Quarter3,sewing,Sunday,5,0.6,20.4,1031,10440,30,0,0,0,58,0
+2015-01-18,Quarter3,finishing ,Sunday,9,0.8,3.94,,1800,0,0,0,0,10,0
+2015-01-18,Quarter3,sewing,Sunday,1,0.8,49.1,1381,10350,24,0,0,0,57.5,0
+2015-01-18,Quarter3,finishing ,Sunday,10,0.7,3.94,,1440,0,0,0,0,8,0
+2015-01-19,Quarter3,finishing ,Monday,4,0.7,4.3,,5040,0,0,0,0,28,1
+2015-01-19,Quarter3,finishing ,Monday,9,0.8,3.94,,1800,0,0,0,0,10,1
+2015-01-19,Quarter3,finishing ,Monday,5,0.65,4.15,,1440,0,0,0,0,8,1
+2015-01-19,Quarter3,sewing,Monday,6,0.8,11.41,1028,4380,50,0,0,0,31,1
+2015-01-19,Quarter3,sewing,Monday,8,0.8,25.9,1380,3630,50,0,0,0,56.5,1
+2015-01-19,Quarter3,sewing,Monday,9,0.8,26.16,1196,10620,63,0,0,0,59,1
+2015-01-19,Quarter3,finishing ,Monday,12,0.8,2.9,,1440,0,0,0,0,8,1
+2015-01-19,Quarter3,sewing,Monday,2,0.7,22.94,1006,10170,38,0,0,0,56.5,1
+2015-01-19,Quarter3,sewing,Monday,4,0.7,22.52,930,10260,63,0,0,0,57,1
+2015-01-19,Quarter3,sewing,Monday,3,0.7,22.52,1095,10170,50,0,0,0,56.5,1
+2015-01-19,Quarter3,sewing,Monday,10,0.7,22.52,938,10080,63,0,0,0,56,1
+2015-01-19,Quarter3,sewing,Monday,11,0.7,14.89,1484,10260,50,0,0,0,57,0
+2015-01-19,Quarter3,finishing ,Monday,8,0.8,2.9,,1440,0,0,0,0,8,0
+2015-01-19,Quarter3,sewing,Monday,5,0.65,20.4,1255,8280,35,0,0,0,58,0
+2015-01-19,Quarter3,sewing,Monday,7,0.8,48.84,1040,10260,30,0,0,0,57,0
+2015-01-19,Quarter3,sewing,Monday,1,0.5,22.94,1492,10170,30,0,0,0,56.5,0
+2015-01-19,Quarter3,finishing ,Monday,10,0.7,3.94,,1440,0,0,0,0,8,0
+2015-01-19,Quarter3,finishing ,Monday,11,0.7,4.15,,1440,0,0,0,0,8,0
+2015-01-19,Quarter3,sewing,Monday,12,0.35,15.26,1111,6120,23,0,0,0,34,0
+2015-01-20,Quarter3,finishing ,Tuesday,5,0.7,4.15,,1440,0,0,0,0,8,1
+2015-01-20,Quarter3,sewing,Tuesday,6,0.8,11.41,1047,5580,63,0,0,0,31,1
+2015-01-20,Quarter3,sewing,Tuesday,8,0.8,25.9,1434,10170,50,0,0,0,56.5,1
+2015-01-20,Quarter3,sewing,Tuesday,9,0.8,26.16,399,10620,63,0,0,0,59,1
+2015-01-20,Quarter3,sewing,Tuesday,4,0.7,22.52,983,10260,63,0,0,0,57,1
+2015-01-20,Quarter3,sewing,Tuesday,10,0.7,22.52,1108,10080,63,0,0,0,56,1
+2015-01-20,Quarter3,sewing,Tuesday,3,0.7,22.52,1134,8460,50,0,0,0,57,1
+2015-01-20,Quarter3,sewing,Tuesday,2,0.7,22.94,1363,10260,50,0,0,0,57,1
+2015-01-20,Quarter3,finishing ,Tuesday,9,0.8,3.94,,1800,0,0,0,0,10,0
+2015-01-20,Quarter3,sewing,Tuesday,11,0.7,14.89,1501,10260,50,0,0,0,57,0
+2015-01-20,Quarter3,sewing,Tuesday,5,0.7,20.4,1352,10260,50,0,0,0,57,0
+2015-01-20,Quarter3,finishing ,Tuesday,8,0.8,2.9,,1440,0,0,0,0,8,0
+2015-01-20,Quarter3,sewing,Tuesday,12,0.5,15.26,1352,3720,23,0,0,0,34,0
+2015-01-20,Quarter3,sewing,Tuesday,7,0.35,22.94,1450,10080,30,0,0,0,56,0
+2015-01-20,Quarter3,finishing ,Tuesday,11,0.7,4.15,,2700,0,0,0,0,15,0
+2015-01-21,Quarter3,finishing ,Wednesday,4,0.75,4.3,,6000,0,0,0,0,20,1
+2015-01-21,Quarter3,finishing ,Wednesday,2,0.7,3.94,,5100,0,0,0,0,17,1
+2015-01-21,Quarter3,sewing,Wednesday,4,0.75,22.52,825,10080,94,0,0,0,56,1
+2015-01-21,Quarter3,sewing,Wednesday,6,0.8,11.61,916,5760,75,0,0,0,89,1
+2015-01-21,Quarter3,finishing ,Wednesday,9,0.8,3.94,,2400,0,0,0,0,8,1
+2015-01-21,Quarter3,sewing,Wednesday,8,0.8,25.9,562,7470,38,0,0,0,56.5,1
+2015-01-21,Quarter3,sewing,Wednesday,2,0.7,22.94,1422,10500,60,0,0,0,57,1
+2015-01-21,Quarter3,sewing,Wednesday,10,0.7,22.52,1206,10080,75,0,0,0,56,1
+2015-01-21,Quarter3,finishing ,Wednesday,5,0.7,4.15,,2400,0,0,0,0,8,1
+2015-01-21,Quarter3,sewing,Wednesday,5,0.7,20.4,1404,10440,50,0,0,0,58,1
+2015-01-21,Quarter3,sewing,Wednesday,3,0.7,22.52,1139,10260,63,0,0,0,57,1
+2015-01-21,Quarter3,sewing,Wednesday,11,0.7,14.89,1735,10260,50,0,0,0,57,0
+2015-01-21,Quarter3,sewing,Wednesday,1,0.65,22.94,1595,10260,34,0,0,0,57,0
+2015-01-21,Quarter3,sewing,Wednesday,12,0.6,15.26,1245,6360,23,0,0,0,34,0
+2015-01-21,Quarter3,finishing ,Wednesday,8,0.8,2.9,,2400,0,0,0,0,8,0
+2015-01-21,Quarter3,sewing,Wednesday,9,0.8,54.56,757,4140,29,0,0,0,58,0
+2015-01-21,Quarter3,finishing ,Wednesday,1,0.65,3.94,,2400,0,0,0,0,8,0
+2015-01-21,Quarter3,sewing,Wednesday,7,0.5,22.52,1720,10080,23,0,0,0,56,0
+2015-01-21,Quarter3,finishing ,Wednesday,11,0.7,4.15,,2700,0,0,0,0,9,0
+2015-01-22,Quarter4,finishing ,Thursday,7,0.6,3.94,,6000,0,0,0,0,10,1
+2015-01-22,Quarter4,finishing ,Thursday,10,0.75,3.94,,8400,0,0,0,0,14,1
+2015-01-22,Quarter4,sewing,Thursday,4,0.75,22.52,759,10080,81,0,0,0,56,1
+2015-01-22,Quarter4,sewing,Thursday,2,0.7,22.94,1510,10620,60,0,0,0,57,1
+2015-01-22,Quarter4,sewing,Thursday,6,0.8,11.61,955,6360,63,0,0,0,32,1
+2015-01-22,Quarter4,sewing,Thursday,10,0.75,22.52,1328,10080,55,0,0,0,56,1
+2015-01-22,Quarter4,sewing,Thursday,1,0.7,22.94,1384,12180,63,0,0,0,57,1
+2015-01-22,Quarter4,sewing,Thursday,3,0.7,22.52,1244,10260,63,0,0,0,57,1
+2015-01-22,Quarter4,finishing ,Thursday,5,0.7,4.15,,9000,0,0,0,0,15,1
+2015-01-22,Quarter4,sewing,Thursday,5,0.7,20.4,1480,10440,40,0,0,0,58,0
+2015-01-22,Quarter4,sewing,Thursday,11,0.7,14.89,1863,10260,50,0,0,0,57,0
+2015-01-22,Quarter4,finishing ,Thursday,4,0.75,4.3,,9000,0,0,0,0,15,0
+2015-01-22,Quarter4,finishing ,Thursday,1,0.7,3.94,,15000,0,0,0,0,25,0
+2015-01-22,Quarter4,finishing ,Thursday,2,0.7,3.94,,15000,0,0,0,0,25,0
+2015-01-22,Quarter4,finishing ,Thursday,6,0.8,2.9,,4800,0,0,0,0,8,0
+2015-01-22,Quarter4,sewing,Thursday,12,0.6,15.26,1492,6960,23,0,0,0,34,0
+2015-01-22,Quarter4,sewing,Thursday,7,0.6,22.52,1859,10260,23,0,0,0,57,0
+2015-01-22,Quarter4,sewing,Thursday,8,0.8,40.99,980,10770,30,0,0,0,56.5,0
+2015-01-22,Quarter4,sewing,Thursday,9,0.5,29.12,970,10440,30,0,0,0,58,0
+2015-01-22,Quarter4,finishing ,Thursday,3,0.7,3.94,,12000,0,0,0,0,20,0
+2015-01-22,Quarter4,finishing ,Thursday,8,0.8,2.9,,4800,0,0,0,0,8,0
+2015-01-22,Quarter4,finishing ,Thursday,12,0.6,4.08,,5400,0,0,0,0,9,0
+2015-01-24,Quarter4,finishing ,Saturday,5,0.7,4.15,,2700,0,0,0,0,15,1
+2015-01-24,Quarter4,finishing ,Saturday,10,0.75,3.94,,1800,0,0,0,0,10,1
+2015-01-24,Quarter4,finishing ,Saturday,8,0.8,2.9,,1620,0,0,0,0,9,1
+2015-01-24,Quarter4,sewing,Saturday,2,0.75,22.94,1606,10260,94,0,0,0,57,1
+2015-01-24,Quarter4,sewing,Saturday,4,0.75,22.52,727,10260,94,0,0,0,57,1
+2015-01-24,Quarter4,finishing ,Saturday,11,0.75,4.15,,1800,0,0,0,0,10,1
+2015-01-24,Quarter4,finishing ,Saturday,3,0.75,3.94,,1440,0,0,0,0,8,1
+2015-01-24,Quarter4,finishing ,Saturday,7,0.65,3.94,,2160,0,0,0,0,12,1
+2015-01-24,Quarter4,finishing ,Saturday,12,0.7,4.08,,1620,0,0,0,0,9,1
+2015-01-24,Quarter4,sewing,Saturday,1,0.7,22.94,1472,10260,75,0,0,0,57,1
+2015-01-24,Quarter4,sewing,Saturday,10,0.75,22.52,1332,10080,69,0,0,0,56,1
+2015-01-24,Quarter4,sewing,Saturday,6,0.8,11.61,1009,5640,63,0,0,0,32,1
+2015-01-24,Quarter4,sewing,Saturday,3,0.75,22.52,1266,10260,69,0,0,0,57,1
+2015-01-24,Quarter4,sewing,Saturday,12,0.75,15.26,1316,6120,40,0,0,0,34,1
+2015-01-24,Quarter4,sewing,Saturday,11,0.75,42.97,1282,10260,56,0,0,0,57,1
+2015-01-24,Quarter4,sewing,Saturday,5,0.7,20.4,1382,10440,50,0,0,0,58,0
+2015-01-24,Quarter4,finishing ,Saturday,4,0.75,4.3,,2160,0,0,0,0,12,0
+2015-01-24,Quarter4,sewing,Saturday,7,0.65,22.52,1295,10170,26,0,0,0,56.5,0
+2015-01-24,Quarter4,sewing,Saturday,9,0.6,29.12,925,6660,23,0,0,0,58,0
+2015-01-24,Quarter4,finishing ,Saturday,2,0.75,3.94,,1440,0,0,0,0,8,0
+2015-01-24,Quarter4,finishing ,Saturday,1,0.7,3.94,,1440,0,0,0,0,8,0
+2015-01-24,Quarter4,sewing,Saturday,8,0.35,15.09,1448,9360,23,0,0,0,52,0
+2015-01-24,Quarter4,finishing ,Saturday,9,0.6,3.94,,1440,0,0,0,0,8,0
+2015-01-25,Quarter4,finishing ,Sunday,5,0.7,4.15,,3060,0,0,0,0,17,1
+2015-01-25,Quarter4,finishing ,Sunday,2,0.75,3.94,,1440,0,0,0,0,8,1
+2015-01-25,Quarter4,finishing ,Sunday,1,0.7,3.94,,1440,0,0,0,0,8,1
+2015-01-25,Quarter4,finishing ,Sunday,3,0.75,3.94,,1620,0,0,0,0,9,1
+2015-01-25,Quarter4,finishing ,Sunday,10,0.75,3.94,,3420,0,0,0,0,19,1
+2015-01-25,Quarter4,finishing ,Sunday,4,0.75,4.3,,2160,0,0,0,0,12,1
+2015-01-25,Quarter4,sewing,Sunday,4,0.75,22.52,867,10260,94,0,0,0,57,1
+2015-01-25,Quarter4,sewing,Sunday,2,0.75,22.94,1636,10530,81,0,0,0,58.5,1
+2015-01-25,Quarter4,sewing,Sunday,1,0.7,22.94,1682,10530,75,0,0,0,58.5,1
+2015-01-25,Quarter4,sewing,Sunday,3,0.75,22.52,1495,10350,55,0,0,0,57.5,1
+2015-01-25,Quarter4,sewing,Sunday,6,0.8,11.61,1181,5760,63,0,0,0,32,1
+2015-01-25,Quarter4,sewing,Sunday,10,0.75,22.52,1413,10080,69,0,0,0,56,1
+2015-01-25,Quarter4,finishing ,Sunday,7,0.65,3.94,,2520,0,0,0,0,14,1
+2015-01-25,Quarter4,sewing,Sunday,7,0.7,22.52,360,10170,40,0,0,0,56.5,0
+2015-01-25,Quarter4,sewing,Sunday,12,0.7,15.26,1296,6120,40,0,0,0,34,0
+2015-01-25,Quarter4,sewing,Sunday,5,0.7,20.4,1217,10440,50,0,0,0,58,0
+2015-01-25,Quarter4,sewing,Sunday,9,0.65,29.12,1086,10440,26,0,0,0,58,0
+2015-01-25,Quarter4,finishing ,Sunday,12,0.7,4.08,,1620,0,0,0,0,9,0
+2015-01-25,Quarter4,sewing,Sunday,11,0.75,42.97,532,10260,40,0,0,0,57,0
+2015-01-25,Quarter4,sewing,Sunday,8,0.5,15.09,1557,720,23,0,0,0,52,0
+2015-01-25,Quarter4,finishing ,Sunday,8,0.8,2.9,,720,0,0,0,0,4,0
+2015-01-26,Quarter4,finishing ,Monday,3,0.75,3.94,,1800,0,0,0,0,10,1
+2015-01-26,Quarter4,finishing ,Monday,10,0.75,3.94,,3780,0,0,0,0,21,1
+2015-01-26,Quarter4,finishing ,Monday,4,0.75,4.3,,2160,0,0,0,0,12,1
+2015-01-26,Quarter4,finishing ,Monday,5,0.7,4.15,,2700,0,0,0,0,15,1
+2015-01-26,Quarter4,finishing ,Monday,2,0.75,3.94,,1800,0,0,0,0,10,1
+2015-01-26,Quarter4,finishing ,Monday,1,0.7,3.94,,1800,0,0,0,0,10,1
+2015-01-26,Quarter4,sewing,Monday,4,0.8,22.52,1016,10170,60,0,0,0,56.5,1
+2015-01-26,Quarter4,sewing,Monday,6,0.8,11.61,1072,5760,50,0,0,0,32,1
+2015-01-26,Quarter4,sewing,Monday,3,0.75,22.52,1584,10260,69,0,0,0,57,1
+2015-01-26,Quarter4,sewing,Monday,2,0.75,22.94,1764,10260,55,0,0,0,57,1
+2015-01-26,Quarter4,sewing,Monday,1,0.7,22.94,1745,10440,60,0,0,0,58,1
+2015-01-26,Quarter4,sewing,Monday,10,0.75,22.52,1250,10080,55,0,0,0,56,1
+2015-01-26,Quarter4,finishing ,Monday,12,0.7,4.08,,1620,0,0,0,0,9,1
+2015-01-26,Quarter4,sewing,Monday,5,0.75,20.4,1118,10320,56,0,0,0,58,1
+2015-01-26,Quarter4,sewing,Monday,9,0.7,29.12,1143,10440,40,0,0,0,58,0
+2015-01-26,Quarter4,sewing,Monday,12,0.7,15.26,1337,6120,40,0,0,0,34,0
+2015-01-26,Quarter4,finishing ,Monday,7,0.65,3.94,,1440,0,0,0,0,8,0
+2015-01-26,Quarter4,sewing,Monday,8,0.6,15.09,1519,360,23,0,0,0,52,0
+2015-01-26,Quarter4,sewing,Monday,11,0.35,28.08,749,10260,23,0,0,0,57,0
+2015-01-27,Quarter4,sewing,Tuesday,2,0.75,22.52,1635,6840,119,0,0,0,57,1
+2015-01-27,Quarter4,sewing,Tuesday,3,0.75,22.52,1299,6840,119,0,0,0,57,1
+2015-01-27,Quarter4,finishing ,Tuesday,10,0.8,3.94,,1440,0,0,0,0,12,1
+2015-01-27,Quarter4,finishing ,Tuesday,4,0.8,4.3,,1440,0,0,0,0,12,1
+2015-01-27,Quarter4,finishing ,Tuesday,5,0.5,4.15,,1440,0,0,0,0,12,1
+2015-01-27,Quarter4,sewing,Tuesday,10,0.8,22.52,1134,6720,70,0,0,0,56,1
+2015-01-27,Quarter4,finishing ,Tuesday,3,0.75,3.94,,1440,0,0,0,0,12,1
+2015-01-27,Quarter4,sewing,Tuesday,4,0.8,22.52,1106,6780,60,0,0,0,56.5,1
+2015-01-27,Quarter4,finishing ,Tuesday,8,0.65,3.94,,960,0,0,0,0,8,1
+2015-01-27,Quarter4,finishing ,Tuesday,12,0.7,4.15,,1080,0,0,0,0,9,1
+2015-01-27,Quarter4,finishing ,Tuesday,7,0.5,4.15,,960,0,0,0,0,8,1
+2015-01-27,Quarter4,sewing,Tuesday,1,0.75,22.94,1871,6960,55,0,0,0,58,1
+2015-01-27,Quarter4,finishing ,Tuesday,2,0.75,3.94,,1200,0,0,0,0,10,1
+2015-01-27,Quarter4,finishing ,Tuesday,1,0.75,3.94,,1200,0,0,0,0,10,1
+2015-01-27,Quarter4,sewing,Tuesday,9,0.7,29.12,1294,6960,50,0,0,0,58,0
+2015-01-27,Quarter4,sewing,Tuesday,12,0.7,15.26,1462,4080,40,0,0,0,34,0
+2015-01-27,Quarter4,sewing,Tuesday,8,0.65,15.09,976,240,23,0,0,0,52,0
+2015-01-27,Quarter4,sewing,Tuesday,6,0.8,30.4,338,3840,34,0,0,0,32,0
+2015-01-27,Quarter4,finishing ,Tuesday,6,0.8,2.9,,960,0,0,0,0,8,0
+2015-01-27,Quarter4,sewing,Tuesday,5,0.5,20.79,1455,6960,30,0,0,0,58,0
+2015-01-27,Quarter4,sewing,Tuesday,11,0.5,48.18,1282,6480,23,0,0,0,54,0
+2015-01-28,Quarter4,sewing,Wednesday,2,0.8,22.52,1559,6840,90,0,0,0,57,1
+2015-01-28,Quarter4,sewing,Wednesday,3,0.8,22.52,1350,6840,113,0,0,0,57,1
+2015-01-28,Quarter4,finishing ,Wednesday,6,0.35,2.9,,1800,0,0,0,0,15,1
+2015-01-28,Quarter4,finishing ,Wednesday,1,0.75,3.94,,1200,0,0,0,0,10,1
+2015-01-28,Quarter4,finishing ,Wednesday,2,0.8,3.94,,1800,0,0,0,0,15,1
+2015-01-28,Quarter4,sewing,Wednesday,10,0.8,22.52,1175,6720,60,0,0,0,56,1
+2015-01-28,Quarter4,sewing,Wednesday,1,0.75,22.94,1868,6960,81,0,0,0,58,1
+2015-01-28,Quarter4,finishing ,Wednesday,10,0.8,3.94,,1200,0,0,0,0,10,1
+2015-01-28,Quarter4,sewing,Wednesday,5,0.6,20.79,1045,6960,88,0,0,0,58,1
+2015-01-28,Quarter4,sewing,Wednesday,4,0.8,22.52,1342,6780,50,0,0,0,56.5,1
+2015-01-28,Quarter4,finishing ,Wednesday,12,0.75,4.08,,1080,0,0,0,0,9,1
+2015-01-28,Quarter4,sewing,Wednesday,9,0.7,29.12,1340,6960,63,0,0,0,58,1
+2015-01-28,Quarter4,sewing,Wednesday,12,0.75,15.26,1429,3600,45,0,0,0,35,1
+2015-01-28,Quarter4,finishing ,Wednesday,4,0.8,4.3,,1440,0,0,0,0,12,0
+2015-01-28,Quarter4,finishing ,Wednesday,8,0.65,4.15,,960,0,0,0,0,8,0
+2015-01-28,Quarter4,sewing,Wednesday,11,0.5,20.1,1413,5880,46,0,0,0,54,0
+2015-01-28,Quarter4,sewing,Wednesday,8,0.7,38.09,336,6240,0,0,0,0,52,0
+2015-01-28,Quarter4,sewing,Wednesday,6,0.35,18.79,511,1800,23,0,0,0,32,0
+2015-01-28,Quarter4,finishing ,Wednesday,7,0.6,3.94,,960,0,0,0,0,8,0
+2015-01-28,Quarter4,sewing,Wednesday,7,0.6,23.54,958,6600,0,0,0,0,55,0
+2015-01-28,Quarter4,finishing ,Wednesday,11,0.5,2.9,,960,0,0,0,0,8,0
+2015-01-29,Quarter5,sewing,Thursday,2,0.8,22.52,1416,6840,113,0,0,0,57,1
+2015-01-29,Quarter5,finishing ,Thursday,4,0.8,4.3,,1200,0,0,0,0,10,1
+2015-01-29,Quarter5,sewing,Thursday,3,0.8,22.52,1287,6840,100,0,0,0,57,1
+2015-01-29,Quarter5,sewing,Thursday,4,0.8,22.52,1444,6900,88,0,0,0,57.5,1
+2015-01-29,Quarter5,sewing,Thursday,10,0.8,22.52,1088,6720,88,0,0,0,56,1
+2015-01-29,Quarter5,finishing ,Thursday,6,0.5,2.9,,1200,0,0,0,0,10,1
+2015-01-29,Quarter5,finishing ,Thursday,8,0.65,4.15,,960,0,0,0,0,8,1
+2015-01-29,Quarter5,finishing ,Thursday,11,0.6,2.9,,960,0,0,0,0,8,1
+2015-01-29,Quarter5,finishing ,Thursday,10,0.8,3.94,,1200,0,0,0,0,10,1
+2015-01-29,Quarter5,finishing ,Thursday,1,0.75,3.94,,1200,0,0,0,0,10,1
+2015-01-29,Quarter5,sewing,Thursday,1,0.75,22.94,1579,6960,81,0,0,0,58,1
+2015-01-29,Quarter5,sewing,Thursday,9,0.7,29.12,1170,6960,53,0,0,0,58,1
+2015-01-29,Quarter5,sewing,Thursday,5,0.65,20.79,1015,7080,81,0,0,0,59,1
+2015-01-29,Quarter5,finishing ,Thursday,2,0.8,3.94,,1200,0,0,0,0,10,1
+2015-01-29,Quarter5,sewing,Thursday,12,0.75,15.26,1436,4200,45,0,0,0,35,1
+2015-01-29,Quarter5,finishing ,Thursday,12,0.75,4.08,,1080,0,0,0,0,9,0
+2015-01-29,Quarter5,sewing,Thursday,11,0.6,20.1,1601,4320,46,0,0,0,51,0
+2015-01-29,Quarter5,sewing,Thursday,6,0.5,18.79,717,3960,23,0,0,0,33,0
+2015-01-29,Quarter5,finishing ,Thursday,3,0.8,3.94,,960,0,0,0,0,8,0
+2015-01-29,Quarter5,sewing,Thursday,7,0.65,23.54,830,6600,0,0,0,0,55,0
+2015-01-31,Quarter5,sewing,Saturday,3,0.8,22.52,1136,6960,113,0,0,0,58,1
+2015-01-31,Quarter5,sewing,Saturday,2,0.8,22.52,1397,6840,113,0,0,0,57,1
+2015-01-31,Quarter5,finishing ,Saturday,2,0.8,3.94,,1200,0,0,0,0,10,1
+2015-01-31,Quarter5,finishing ,Saturday,3,0.8,3.94,,960,0,0,0,0,8,1
+2015-01-31,Quarter5,finishing ,Saturday,4,0.8,3.94,,1200,0,0,0,0,10,1
+2015-01-31,Quarter5,finishing ,Saturday,10,0.8,3.94,,1200,0,0,0,0,10,1
+2015-01-31,Quarter5,finishing ,Saturday,1,0.75,3.94,,1800,0,0,0,0,15,1
+2015-01-31,Quarter5,finishing ,Saturday,9,0.75,3.94,,240,0,0,0,0,2,1
+2015-01-31,Quarter5,finishing ,Saturday,12,0.75,4.08,,1080,0,0,0,0,9,1
+2015-01-31,Quarter5,finishing ,Saturday,5,0.7,3.94,,240,0,0,0,0,2,1
+2015-01-31,Quarter5,finishing ,Saturday,7,0.7,3.94,,1200,0,0,0,0,10,1
+2015-01-31,Quarter5,finishing ,Saturday,8,0.65,3.94,,960,0,0,0,0,8,1
+2015-01-31,Quarter5,finishing ,Saturday,11,0.65,3.94,,600,0,0,0,0,5,1
+2015-01-31,Quarter5,finishing ,Saturday,6,0.6,3.94,,1200,0,0,0,0,10,1
+2015-01-31,Quarter5,sewing,Saturday,10,0.8,22.52,1116,6720,93,0,0,0,56,1
+2015-01-31,Quarter5,sewing,Saturday,4,0.8,22.52,1432,6660,88,0,0,0,57.5,1
+2015-01-31,Quarter5,sewing,Saturday,9,0.75,29.12,1082,6840,81,0,0,0,57,1
+2015-01-31,Quarter5,sewing,Saturday,1,0.75,22.94,1502,6960,81,0,0,0,58,1
+2015-01-31,Quarter5,sewing,Saturday,12,0.75,15.26,1209,4200,45,0,0,0,35,1
+2015-01-31,Quarter5,sewing,Saturday,5,0.7,50.89,282,5880,56,0,0,0,59,0
+2015-01-31,Quarter5,sewing,Saturday,11,0.65,20.1,1417,6480,49,0,0,0,54,0
+2015-01-31,Quarter5,sewing,Saturday,6,0.6,18.79,799,3960,23,0,0,0,33,0
+2015-01-31,Quarter5,sewing,Saturday,7,0.7,23.54,1109,6720,0,0,0,0,56,0
+2015-01-31,Quarter5,sewing,Saturday,8,0.5,23.54,1144,6480,0,0,0,0,54,0
+2015-02-01,Quarter1,finishing ,Sunday,8,0.65,4.15,,960,0,0,0,0,8,1
+2015-02-01,Quarter1,sewing,Sunday,2,0.8,22.52,1396,6900,113,0,0,0,57.5,1
+2015-02-01,Quarter1,sewing,Sunday,1,0.8,22.94,1582,3060,113,0,0,0,58.5,1
+2015-02-01,Quarter1,finishing ,Sunday,1,0.75,3.94,,2280,0,0,0,0,19,1
+2015-02-01,Quarter1,sewing,Sunday,3,0.8,22.52,1124,6840,100,0,0,0,57,1
+2015-02-01,Quarter1,finishing ,Sunday,2,0.8,3.94,,1200,0,0,0,0,10,1
+2015-02-01,Quarter1,finishing ,Sunday,7,0.7,3.94,,2160,0,0,0,0,18,1
+2015-02-01,Quarter1,finishing ,Sunday,10,0.8,3.94,,1200,0,0,0,0,10,1
+2015-02-01,Quarter1,sewing,Sunday,10,0.8,22.52,1282,6720,75,0,0,0,56,1
+2015-02-01,Quarter1,sewing,Sunday,4,0.8,22.52,1472,7020,60,0,0,0,58.5,1
+2015-02-01,Quarter1,finishing ,Sunday,4,0.8,4.3,,1440,0,0,0,0,12,1
+2015-02-01,Quarter1,sewing,Sunday,9,0.75,29.12,1282,6960,45,0,0,0,58,1
+2015-02-01,Quarter1,sewing,Sunday,12,0.75,15.26,1276,1440,45,0,0,0,35,1
+2015-02-01,Quarter1,finishing ,Sunday,12,0.75,4.08,,1080,0,0,0,0,9,0
+2015-02-01,Quarter1,sewing,Sunday,11,0.7,20.1,1192,6120,75,0,0,0,54,0
+2015-02-01,Quarter1,sewing,Sunday,6,0.65,18.79,881,3960,26,0,0,0,33,0
+2015-02-01,Quarter1,sewing,Sunday,8,0.6,24.26,1196,6600,0,0,0,0,55,0
+2015-02-01,Quarter1,sewing,Sunday,7,0.7,24.26,1400,6720,0,0,0,0,56,0
+2015-02-01,Quarter1,finishing ,Sunday,6,0.6,2.9,,1200,0,0,0,0,10,0
+2015-02-02,Quarter1,sewing,Monday,1,0.8,22.94,16882,7020,113,0,0,0,58.5,1
+2015-02-02,Quarter1,finishing ,Monday,9,0.75,3.94,,960,0,0,0,0,8,1
+2015-02-02,Quarter1,sewing,Monday,2,0.8,22.52,21385,7020,88,0,0,0,58.5,1
+2015-02-02,Quarter1,sewing,Monday,3,0.8,22.52,21266,6840,70,0,0,0,57,1
+2015-02-02,Quarter1,sewing,Monday,10,0.8,22.52,21540,6720,88,0,0,0,56,1
+2015-02-02,Quarter1,finishing ,Monday,10,0.8,3.94,,1200,0,0,0,0,10,1
+2015-02-02,Quarter1,finishing ,Monday,4,0.8,4.3,,1440,0,0,0,0,12,1
+2015-02-02,Quarter1,sewing,Monday,12,0.8,15.26,12261,3600,63,0,0,0,35,1
+2015-02-02,Quarter1,sewing,Monday,4,0.8,22.52,23122,5940,50,0,0,0,56.5,1
+2015-02-02,Quarter1,sewing,Monday,9,0.75,29.12,8992,6960,55,0,0,0,58,1
+2015-02-02,Quarter1,finishing ,Monday,12,0.75,4.08,,1080,0,0,0,0,9,1
+2015-02-02,Quarter1,sewing,Monday,11,0.7,20.55,9792,6480,60,0,0,0,54,0
+2015-02-02,Quarter1,sewing,Monday,6,0.7,18.79,2984,3960,30,0,0,0,33,0
+2015-02-02,Quarter1,finishing ,Monday,8,0.65,4.15,,960,0,0,0,0,8,0
+2015-02-02,Quarter1,finishing ,Monday,1,0.75,3.94,,2280,0,0,0,0,19,0
+2015-02-02,Quarter1,sewing,Monday,5,0.5,30.1,839,6960,0,0,0,0,58,0
+2015-02-02,Quarter1,sewing,Monday,7,0.7,24.26,2698,6720,0,0,0,0,56,0
+2015-02-02,Quarter1,finishing ,Monday,6,0.6,2.9,,1200,0,0,0,0,10,0
+2015-02-02,Quarter1,sewing,Monday,8,0.65,24.26,1435,6600,0,0,0,0,55,0
+2015-02-03,Quarter1,finishing ,Tuesday,2,0.8,3.94,,2400,0,0,0,0,20,1
+2015-02-03,Quarter1,sewing,Tuesday,1,0.8,22.52,1500,6900,113,0,0,0,57.5,1
+2015-02-03,Quarter1,sewing,Tuesday,10,0.8,22.52,1188,6720,90,0,0,0,56,1
+2015-02-03,Quarter1,finishing ,Tuesday,1,0.8,3.94,,1200,0,0,0,0,10,1
+2015-02-03,Quarter1,finishing ,Tuesday,8,0.7,4.15,,960,0,0,0,0,8,1
+2015-02-03,Quarter1,sewing,Tuesday,3,0.8,22.52,1112,6840,100,0,0,0,57,1
+2015-02-03,Quarter1,sewing,Tuesday,2,0.8,22.52,1452,6960,100,0,0,0,58,1
+2015-02-03,Quarter1,finishing ,Tuesday,9,0.75,3.94,,1320,0,0,0,0,11,1
+2015-02-03,Quarter1,sewing,Tuesday,4,0.8,22.52,340,5460,63,0,0,0,56.5,1
+2015-02-03,Quarter1,sewing,Tuesday,12,0.8,15.26,1029,2040,50,0,0,0,35,1
+2015-02-03,Quarter1,finishing ,Tuesday,12,0.8,4.08,,1080,0,0,0,0,9,1
+2015-02-03,Quarter1,sewing,Tuesday,9,0.75,29.12,1070,6960,34,0,0,0,58,1
+2015-02-03,Quarter1,sewing,Tuesday,11,0.7,25.31,946,5760,60,0,0,0,54,0
+2015-02-03,Quarter1,sewing,Tuesday,6,0.7,18.79,913,4020,30,0,0,0,33.5,0
+2015-02-03,Quarter1,sewing,Tuesday,8,0.7,24.26,1363,6660,0,0,0,0,55.5,0
+2015-02-03,Quarter1,sewing,Tuesday,7,0.7,24.26,1639,6720,0,0,0,0,56,0
+2015-02-03,Quarter1,finishing ,Tuesday,4,0.8,4.3,,1440,0,0,0,0,12,0
+2015-02-03,Quarter1,finishing ,Tuesday,6,0.7,2.9,,960,0,0,0,0,8,0
+2015-02-03,Quarter1,sewing,Tuesday,5,0.6,30.1,415,6960,0,0,0,0,58,0
+2015-02-04,Quarter1,sewing,Wednesday,2,0.8,22.52,1263,6900,100,0,0,0,57.5,1
+2015-02-04,Quarter1,sewing,Wednesday,3,0.8,22.52,968,6840,113,0,0,0,57,1
+2015-02-04,Quarter1,sewing,Wednesday,10,0.8,22.52,1108,6720,113,0,0,0,56,1
+2015-02-04,Quarter1,finishing,Wednesday,2,0.8,3.94,,2160,0,0,0,0,18,1
+2015-02-04,Quarter1,finishing,Wednesday,1,0.8,3.94,,1200,0,0,0,0,10,1
+2015-02-04,Quarter1,finishing,Wednesday,8,0.7,4.15,,3000,0,0,0,0,25,1
+2015-02-04,Quarter1,sewing,Wednesday,1,0.8,22.52,1532,6900,88,0,0,0,57.5,1
+2015-02-04,Quarter1,sewing,Wednesday,12,0.8,15.26,1094,4080,38,0,0,0,34,1
+2015-02-04,Quarter1,sewing,Wednesday,9,0.8,22.52,1086,6960,50,0,0,0,58,1
+2015-02-04,Quarter1,finishing,Wednesday,7,0.7,3.94,,960,0,0,0,0,8,1
+2015-02-04,Quarter1,finishing,Wednesday,9,0.75,3.94,,960,0,0,0,0,8,1
+2015-02-04,Quarter1,sewing,Wednesday,6,0.7,18.79,941,3360,30,0,0,0,33,0
+2015-02-04,Quarter1,sewing,Wednesday,7,0.7,24.26,1471,6960,0,0,0,0,58,0
+2015-02-04,Quarter1,sewing,Wednesday,11,0.7,10.05,1042,6120,60,0,0,0,53,0
+2015-02-04,Quarter1,sewing,Wednesday,8,0.7,29.12,1248,6840,0,0,0,0,57,0
+2015-02-04,Quarter1,finishing ,Wednesday,12,0.8,4.08,,1080,0,0,0,0,9,0
+2015-02-04,Quarter1,sewing,Wednesday,5,0.65,30.1,326,5820,0,90,10,0,58.5,0
+2015-02-04,Quarter1,finishing,Wednesday,6,0.7,2.9,,960,0,0,0,0,8,0
+2015-02-04,Quarter1,sewing,Wednesday,4,0.35,30.1,287,6060,23,150,15,0,55.5,0
+2015-02-05,Quarter1,sewing,Thursday,2,0.8,22.52,1300,6780,113,0,0,0,56.5,1
+2015-02-05,Quarter1,sewing,Thursday,1,0.8,22.52,1485,6900,113,0,0,0,57.5,1
+2015-02-05,Quarter1,sewing,Thursday,10,0.8,22.52,1039,6720,113,0,0,0,56,1
+2015-02-05,Quarter1,finishing,Thursday,2,0.8,3.94,,2640,0,0,0,0,22,1
+2015-02-05,Quarter1,sewing,Thursday,3,0.8,22.52,1063,6840,100,0,0,0,57,1
+2015-02-05,Quarter1,finishing,Thursday,6,0.7,2.9,,960,0,0,0,0,8,1
+2015-02-05,Quarter1,finishing,Thursday,12,0.8,4.08,,1080,0,0,0,0,9,1
+2015-02-05,Quarter1,finishing,Thursday,7,0.7,3.94,,1200,0,0,0,0,10,1
+2015-02-05,Quarter1,finishing,Thursday,1,0.8,3.94,,1440,0,0,0,0,12,1
+2015-02-05,Quarter1,sewing,Thursday,12,0.8,15.26,1083,720,38,0,0,0,34,1
+2015-02-05,Quarter1,sewing,Thursday,9,0.8,29.12,1069,6960,50,0,0,0,58,1
+2015-02-05,Quarter1,finishing,Thursday,10,0.8,3.94,,960,0,0,0,0,8,1
+2015-02-05,Quarter1,sewing,Thursday,11,0.75,10.05,668,2520,34,0,0,0,26,1
+2015-02-05,Quarter1,sewing,Thursday,6,0.7,18.79,766,2760,30,0,0,0,33,0
+2015-02-05,Quarter1,sewing,Thursday,5,0.7,30.1,557,6960,0,0,0,0,58,0
+2015-02-05,Quarter1,sewing,Thursday,7,0.07,24.26,1608,6960,0,0,0,0,58,0
+2015-02-05,Quarter1,sewing,Thursday,4,0.5,30.1,417,6360,23,0,0,1,53,0
+2015-02-05,Quarter1,sewing,Thursday,8,0.7,24.26,1167,6840,0,0,0,0,57,0
+2015-02-07,Quarter1,finishing,Saturday,2,0.8,3.94,,3000,0,0,0,0,25,1
+2015-02-07,Quarter1,sewing,Saturday,2,0.8,22.52,1186,6900,113,0,0,0,58,1
+2015-02-07,Quarter1,sewing,Saturday,3,0.8,22.52,1060,6840,100,0,0,0,57,1
+2015-02-07,Quarter1,sewing,Saturday,1,0.8,22.52,1534,6780,88,0,0,0,57,1
+2015-02-07,Quarter1,sewing,Saturday,10,0.8,22.52,1142,6720,88,0,0,0,56,1
+2015-02-07,Quarter1,finishing,Saturday,12,0.8,4.08,,1080,0,0,0,0,9,1
+2015-02-07,Quarter1,finishing,Saturday,1,0.8,3.94,,1200,0,0,0,0,10,1
+2015-02-07,Quarter1,finishing,Saturday,6,0.75,2.9,,960,0,0,0,0,8,1
+2015-02-07,Quarter1,sewing,Saturday,12,0.8,15.26,1021,4080,63,0,0,0,34,1
+2015-02-07,Quarter1,sewing,Saturday,9,0.8,29.12,829,6960,50,0,0,0,58,1
+2015-02-07,Quarter1,finishing,Saturday,9,0.8,3.94,,960,0,0,0,0,8,1
+2015-02-07,Quarter1,sewing,Saturday,6,0.75,18.79,813,1560,34,0,0,0,33,1
+2015-02-07,Quarter1,sewing,Saturday,11,0.75,10.05,677,3240,45,0,0,0,27,1
+2015-02-07,Quarter1,finishing,Saturday,7,0.7,3.94,,1200,0,0,0,0,10,0
+2015-02-07,Quarter1,sewing,Saturday,7,0.7,24.26,658,6960,0,270,45,0,58,0
+2015-02-07,Quarter1,sewing,Saturday,4,0.6,30.1,486,6780,30,0,0,1,57,0
+2015-02-07,Quarter1,sewing,Saturday,5,0.7,30.1,687,7500,0,0,0,0,59,0
+2015-02-07,Quarter1,finishing,Saturday,4,0.8,4.3,,960,0,0,0,0,8,0
+2015-02-07,Quarter1,sewing,Saturday,8,0.7,24.26,652,6840,0,300,37,0,57,0
+2015-02-08,Quarter2,sewing,Sunday,2,0.8,22.52,1233,6900,113,0,0,0,57.5,1
+2015-02-08,Quarter2,finishing,Sunday,7,0.7,4.15,,1440,0,0,0,0,12,1
+2015-02-08,Quarter2,sewing,Sunday,10,0.8,22.52,1388,6720,88,0,0,0,56,1
+2015-02-08,Quarter2,sewing,Sunday,1,0.8,22.52,1615,6780,88,0,0,0,56.5,1
+2015-02-08,Quarter2,sewing,Sunday,3,0.8,22.52,1283,6720,88,0,0,0,56,1
+2015-02-08,Quarter2,finishing,Sunday,1,0.8,3.94,,1200,0,0,0,0,10,1
+2015-02-08,Quarter2,finishing,Sunday,12,0.8,4.08,,1080,0,0,0,0,9,1
+2015-02-08,Quarter2,finishing,Sunday,2,0.8,3.94,,2160,0,0,0,0,18,1
+2015-02-08,Quarter2,finishing,Sunday,8,0.7,4.15,,1800,0,0,0,0,15,1
+2015-02-08,Quarter2,sewing,Sunday,12,0.8,15.26,1026,2880,63,0,0,0,34,1
+2015-02-08,Quarter2,sewing,Sunday,9,0.8,29.12,909,6960,50,0,0,0,58,1
+2015-02-08,Quarter2,sewing,Sunday,6,0.75,18.79,670,3960,34,0,0,0,33,1
+2015-02-08,Quarter2,sewing,Sunday,11,0.75,10.05,629,3240,45,0,0,0,27,1
+2015-02-08,Quarter2,sewing,Sunday,5,0.7,30.1,754,7020,0,0,0,0,58.5,0
+2015-02-08,Quarter2,finishing,Sunday,6,0.75,2.9,,960,0,0,0,0,8,0
+2015-02-08,Quarter2,finishing,Sunday,9,0.8,3.94,,960,0,0,0,0,8,0
+2015-02-08,Quarter2,sewing,Sunday,4,0.65,30.1,712,6780,44,0,0,1,56.5,0
+2015-02-08,Quarter2,sewing,Sunday,7,0.7,24.26,148,6960,0,0,0,0,58,0
+2015-02-08,Quarter2,sewing,Sunday,8,0.7,24.26,154,6840,0,0,0,0,57,0
+2015-02-09,Quarter2,finishing,Monday,2,0.8,3.94,,2160,0,0,0,0,18,1
+2015-02-09,Quarter2,finishing,Monday,1,0.8,3.94,,1200,0,0,0,0,10,1
+2015-02-09,Quarter2,sewing,Monday,10,0.8,22.52,1127,120,88,0,0,0,56,1
+2015-02-09,Quarter2,sewing,Monday,1,0.8,22.52,1506,3600,70,0,0,0,57,1
+2015-02-09,Quarter2,sewing,Monday,2,0.8,22.52,1413,360,70,0,0,0,57,1
+2015-02-09,Quarter2,finishing,Monday,6,0.75,2.9,,960,0,0,0,0,8,1
+2015-02-09,Quarter2,sewing,Monday,12,0.8,15.26,970,4080,63,0,0,0,34,1
+2015-02-09,Quarter2,sewing,Monday,3,0.8,22.52,1271,5400,50,0,0,0,57,1
+2015-02-09,Quarter2,sewing,Monday,9,0.8,29.12,1073,6960,50,0,0,0,58,1
+2015-02-09,Quarter2,sewing,Monday,4,0.7,30.1,767,3300,50,0,0,1,57,1
+2015-02-09,Quarter2,sewing,Monday,11,0.75,10.05,103,0,45,0,0,0,54,1
+2015-02-09,Quarter2,finishing,Monday,8,0.35,4.15,,1800,0,0,0,0,15,0
+2015-02-09,Quarter2,sewing,Monday,5,0.7,30.1,773,7020,40,0,0,0,58,0
+2015-02-09,Quarter2,finishing,Monday,9,0.8,3.94,,960,0,0,0,0,8,0
+2015-02-09,Quarter2,sewing,Monday,6,0.75,18.79,708,4080,0,0,0,0,34,0
+2015-02-09,Quarter2,sewing,Monday,7,0.35,30.1,842,6960,0,0,0,1,58,0
+2015-02-09,Quarter2,sewing,Monday,8,0.35,30.1,901,6960,0,0,0,1,58,0
+2015-02-09,Quarter2,finishing,Monday,12,0.8,4.08,,1080,0,0,0,0,9,0
+2015-02-10,Quarter2,finishing,Tuesday,12,0.8,4.08,,1080,0,0,0,0,9,1
+2015-02-10,Quarter2,finishing,Tuesday,2,0.8,3.94,,2160,0,0,0,0,18,1
+2015-02-10,Quarter2,sewing,Tuesday,10,0.8,22.52,1268,0,88,0,0,0,56,1
+2015-02-10,Quarter2,sewing,Tuesday,1,0.8,22.52,1546,0,88,0,0,0,57,1
+2015-02-10,Quarter2,sewing,Tuesday,3,0.8,22.52,813,0,88,0,0,0,57,1
+2015-02-10,Quarter2,sewing,Tuesday,2,0.8,22.52,1512,0,88,0,0,0,57,1
+2015-02-10,Quarter2,finishing,Tuesday,1,0.8,3.94,,1440,0,0,0,0,12,1
+2015-02-10,Quarter2,sewing,Tuesday,9,0.8,29.12,1263,2160,38,0,0,0,58,1
+2015-02-10,Quarter2,sewing,Tuesday,12,0.8,15.26,900,4080,50,0,0,0,34,1
+2015-02-10,Quarter2,finishing,Tuesday,4,0.7,4.15,,1800,0,0,0,0,15,1
+2015-02-10,Quarter2,sewing,Tuesday,6,0.75,18.79,640,2400,0,0,0,0,34,1
+2015-02-10,Quarter2,sewing,Tuesday,11,0.8,10.05,13,3240,34,0,0,0,54,1
+2015-02-10,Quarter2,sewing,Tuesday,5,0.75,30.1,855,7020,45,0,0,0,58,1
+2015-02-10,Quarter2,finishing,Tuesday,8,0.35,4.15,,960,0,0,0,0,8,0
+2015-02-10,Quarter2,sewing,Tuesday,4,0.7,30.1,855,7020,40,0,0,1,58,0
+2015-02-10,Quarter2,finishing,Tuesday,9,0.8,3.94,,960,0,0,0,0,8,0
+2015-02-10,Quarter2,finishing,Tuesday,6,0.75,2.9,,960,0,0,0,0,8,0
+2015-02-10,Quarter2,sewing,Tuesday,7,0.5,30.1,1025,6960,23,0,0,1,58,0
+2015-02-10,Quarter2,sewing,Tuesday,8,0.5,30.1,1061,6960,30,0,0,1,58,0
+2015-02-11,Quarter2,finishing,Wednesday,4,0.7,4.15,,1800,0,0,0,0,15,1
+2015-02-11,Quarter2,finishing,Wednesday,12,0.8,4.08,,1080,0,0,0,0,9,1
+2015-02-11,Quarter2,sewing,Wednesday,2,0.8,22.52,1557,0,90,0,0,0,57.5,1
+2015-02-11,Quarter2,sewing,Wednesday,1,0.8,22.52,1498,0,113,0,0,0,57,1
+2015-02-11,Quarter2,finishing,Wednesday,8,0.35,4.15,,1440,0,0,0,0,12,1
+2015-02-11,Quarter2,finishing,Wednesday,2,0.8,3.94,,2160,0,0,0,0,18,1
+2015-02-11,Quarter2,finishing,Wednesday,5,0.7,4.15,,240,0,0,0,0,2,1
+2015-02-11,Quarter2,sewing,Wednesday,10,0.8,22.52,598,0,75,0,0,0,56,1
+2015-02-11,Quarter2,sewing,Wednesday,6,0.8,18.79,656,3480,38,0,0,0,34,1
+2015-02-11,Quarter2,sewing,Wednesday,12,0.8,15.26,854,4080,50,0,0,0,34,1
+2015-02-11,Quarter2,sewing,Wednesday,9,0.8,29.12,609,3240,50,0,0,0,58,1
+2015-02-11,Quarter2,sewing,Wednesday,5,0.75,30.1,788,7380,56,0,0,0,59.5,1
+2015-02-11,Quarter2,sewing,Wednesday,8,0.6,30.1,1069,4560,30,0,0,1,58,0
+2015-02-11,Quarter2,sewing,Wednesday,4,0.7,30.1,667,5940,40,0,0,1,59.5,0
+2015-02-11,Quarter2,finishing,Wednesday,1,0.8,3.94,,1440,0,0,0,0,12,0
+2015-02-11,Quarter2,sewing,Wednesday,7,0.6,30.1,829,3360,23,0,0,1,58,0
+2015-02-11,Quarter2,finishing,Wednesday,9,0.8,3.94,,960,0,0,0,0,8,0
+2015-02-11,Quarter2,sewing,Wednesday,3,0.8,22.52,11,6840,0,0,0,1,57,0
+2015-02-11,Quarter2,sewing,Wednesday,11,0.35,11.41,434,3240,0,0,0,1,52,0
+2015-02-12,Quarter2,sewing,Thursday,1,0.8,22.52,1397,0,138,0,0,0,57,1
+2015-02-12,Quarter2,finishing,Thursday,4,0.7,4.15,,1800,0,0,0,0,15,1
+2015-02-12,Quarter2,sewing,Thursday,2,0.8,22.52,1327,0,113,0,0,0,57.5,1
+2015-02-12,Quarter2,finishing,Thursday,12,0.8,4.08,,1080,0,0,0,0,9,1
+2015-02-12,Quarter2,sewing,Thursday,12,0.8,15.26,894,4080,50,0,0,0,34,1
+2015-02-12,Quarter2,finishing,Thursday,8,0.35,4.15,,1440,0,0,0,0,12,1
+2015-02-12,Quarter2,sewing,Thursday,5,0.75,30.1,610,7080,56,0,0,0,59,1
+2015-02-12,Quarter2,sewing,Thursday,6,0.8,18.79,779,3960,0,0,0,0,33,0
+2015-02-12,Quarter2,finishing,Thursday,1,0.8,3.94,,1440,0,0,0,0,12,0
+2015-02-12,Quarter2,finishing,Thursday,9,0.8,3.94,,960,0,0,0,0,8,0
+2015-02-12,Quarter2,sewing,Thursday,4,0.7,30.1,419,7080,0,0,0,1,59,0
+2015-02-12,Quarter2,finishing,Thursday,2,0.8,3.94,,2160,0,0,0,0,18,0
+2015-02-12,Quarter2,finishing,Thursday,5,0.7,4.15,,240,0,0,0,0,2,0
+2015-02-12,Quarter2,sewing,Thursday,7,0.65,30.1,909,7080,0,0,0,1,59,0
+2015-02-12,Quarter2,sewing,Thursday,11,0.5,11.41,1039,2280,0,0,0,2,55,0
+2015-02-12,Quarter2,sewing,Thursday,9,0.8,29.12,14,6960,0,0,0,0,58,0
+2015-02-12,Quarter2,sewing,Thursday,8,0.65,30.1,1193,7080,0,0,0,1,59,0
+2015-02-12,Quarter2,sewing,Thursday,10,0.8,22.52,10,6000,0,0,0,0,50,0
+2015-02-12,Quarter2,sewing,Thursday,3,0.35,30.1,770,6960,0,0,0,1,58,0
+2015-02-14,Quarter2,sewing,Saturday,1,0.8,22.52,1416,6840,113,0,0,0,57,1
+2015-02-14,Quarter2,finishing,Saturday,7,0.7,4.15,,1800,0,0,0,0,15,1
+2015-02-14,Quarter2,finishing,Saturday,4,0.75,4.15,,2400,0,0,0,0,20,1
+2015-02-14,Quarter2,finishing,Saturday,12,0.8,4.08,,1080,0,0,0,0,9,1
+2015-02-14,Quarter2,sewing,Saturday,12,0.8,15.26,942,4080,63,0,0,0,34,1
+2015-02-14,Quarter2,sewing,Saturday,2,0.8,22.52,674,3660,63,0,0,0,57,1
+2015-02-14,Quarter2,finishing,Saturday,1,0.8,3.94,,1440,0,0,0,0,12,1
+2015-02-14,Quarter2,sewing,Saturday,4,0.75,30.1,481,7140,0,0,0,1,59,1
+2015-02-14,Quarter2,sewing,Saturday,5,0.75,30.1,664,7140,56,0,0,0,59,1
+2015-02-14,Quarter2,finishing,Saturday,8,0.7,4.15,,960,0,0,0,0,8,0
+2015-02-14,Quarter2,sewing,Saturday,8,0.7,30.1,824,5160,0,0,0,1,60,0
+2015-02-14,Quarter2,sewing,Saturday,7,0.7,30.1,957,7200,0,0,0,1,60,0
+2015-02-14,Quarter2,sewing,Saturday,11,0.6,11.41,1039,2280,23,0,0,2,55,0
+2015-02-14,Quarter2,sewing,Saturday,6,0.8,18.79,822,4080,0,0,0,0,34,0
+2015-02-14,Quarter2,sewing,Saturday,3,0.5,30.1,1261,6960,30,0,0,1,58,0
+2015-02-14,Quarter2,finishing,Saturday,6,0.8,2.9,,960,0,0,0,0,8,0
+2015-02-14,Quarter2,finishing,Saturday,9,0.8,3.94,,960,0,0,0,0,8,0
+2015-02-15,Quarter3,finishing,Sunday,1,0.8,3.94,,960,0,0,0,0,8,1
+2015-02-15,Quarter3,finishing,Sunday,2,0.8,3.94,,960,0,0,0,0,8,1
+2015-02-15,Quarter3,sewing,Sunday,1,0.8,22.52,1420,6840,113,0,0,0,57,1
+2015-02-15,Quarter3,finishing,Sunday,12,0.8,4.08,,1080,0,0,0,0,9,1
+2015-02-15,Quarter3,sewing,Sunday,12,0.8,15.26,1120,1440,50,0,0,0,34,1
+2015-02-15,Quarter3,finishing,Sunday,5,0.75,4.15,,240,0,0,0,0,2,1
+2015-02-15,Quarter3,sewing,Sunday,5,0.8,30.1,679,7140,0,0,0,0,59.5,0
+2015-02-15,Quarter3,finishing,Sunday,11,0.6,2.9,,1200,0,0,0,0,10,0
+2015-02-15,Quarter3,sewing,Sunday,7,0.7,30.1,881,7080,0,0,0,1,59,0
+2015-02-15,Quarter3,sewing,Sunday,8,0.7,30.1,507,5880,40,2,10,1,59,0
+2015-02-15,Quarter3,sewing,Sunday,6,0.75,18.79,814,4080,0,0,0,0,34,0
+2015-02-15,Quarter3,sewing,Sunday,11,0.65,11.41,700,2640,23,0,0,2,53,0
+2015-02-15,Quarter3,finishing,Sunday,8,0.7,4.15,,960,0,0,0,0,8,0
+2015-02-15,Quarter3,finishing,Sunday,6,0.8,2.9,,960,0,0,0,0,8,0
+2015-02-15,Quarter3,sewing,Sunday,4,0.75,30.1,919,7140,0,0,0,1,59.5,0
+2015-02-15,Quarter3,sewing,Sunday,3,0.6,30.1,1361,6960,30,0,0,1,58,0
+2015-02-15,Quarter3,sewing,Sunday,2,0.8,22.52,12,6900,0,0,0,0,57.5,0
+2015-02-15,Quarter3,finishing,Sunday,4,0.75,4.15,,2400,0,0,0,0,20,0
+2015-02-15,Quarter3,sewing,Sunday,9,0.5,18.79,1688,5280,0,0,0,1,54,0
+2015-02-16,Quarter3,sewing,Monday,1,0.8,22.52,1422,6840,113,0,0,0,57,1
+2015-02-16,Quarter3,finishing,Monday,9,0.8,3.94,,1200,0,0,0,0,10,1
+2015-02-16,Quarter3,finishing,Monday,12,0.8,4.08,,1080,0,0,0,0,9,1
+2015-02-16,Quarter3,finishing,Monday,3,0.5,4.15,,960,0,0,0,0,8,1
+2015-02-16,Quarter3,sewing,Monday,3,0.65,30.1,1263,600,63,0,0,1,58,1
+2015-02-16,Quarter3,sewing,Monday,5,0.8,30.1,461,0,0,0,0,0,59,1
+2015-02-16,Quarter3,sewing,Monday,12,0.8,15.26,1079,3720,38,0,0,0,34,1
+2015-02-16,Quarter3,finishing,Monday,6,0.8,2.9,,960,0,0,0,0,8,1
+2015-02-16,Quarter3,sewing,Monday,6,0.75,18.79,895,3960,0,0,0,0,33,1
+2015-02-16,Quarter3,sewing,Monday,4,0.75,30.1,912,7020,0,0,0,1,58,1
+2015-02-16,Quarter3,finishing,Monday,4,0.75,4.15,,1800,0,0,0,0,15,0
+2015-02-16,Quarter3,sewing,Monday,7,0.7,30.1,784,600,30,0,0,1,59,0
+2015-02-16,Quarter3,finishing,Monday,5,0.75,4.15,,1200,0,0,0,0,10,0
+2015-02-16,Quarter3,sewing,Monday,8,0.7,30.1,7,7080,27,2,10,2,59,0
+2015-02-16,Quarter3,sewing,Monday,11,0.7,11.41,680,2160,30,0,0,2,54,0
+2015-02-16,Quarter3,sewing,Monday,10,0.6,18.22,1131,5280,0,0,0,1,44,0
+2015-02-16,Quarter3,sewing,Monday,9,0.6,18.79,2103,5400,0,0,0,1,54,0
+2015-02-16,Quarter3,finishing,Monday,7,0.7,4.15,,1800,0,0,0,0,15,0
+2015-02-17,Quarter3,sewing,Tuesday,1,0.8,22.52,1445,6840,113,0,0,0,57,1
+2015-02-17,Quarter3,finishing,Tuesday,10,0.8,3.94,,960,0,0,0,0,8,1
+2015-02-17,Quarter3,finishing,Tuesday,7,0.7,5.13,,1200,0,0,0,0,10,1
+2015-02-17,Quarter3,finishing,Tuesday,12,0.8,5.13,,1080,0,0,0,0,9,1
+2015-02-17,Quarter3,sewing,Tuesday,12,0.8,15.26,1133,4080,38,0,0,0,34,1
+2015-02-17,Quarter3,finishing,Tuesday,3,0.5,5.13,,1800,0,0,0,0,15,1
+2015-02-17,Quarter3,sewing,Tuesday,6,0.75,18.79,726,3360,0,0,0,0,33,1
+2015-02-17,Quarter3,sewing,Tuesday,4,0.75,30.1,849,7020,45,0,0,1,58,1
+2015-02-17,Quarter3,finishing,Tuesday,6,0.8,2.9,,960,0,0,0,0,8,1
+2015-02-17,Quarter3,sewing,Tuesday,7,0.7,30.1,562,840,30,0,0,1,59,0
+2015-02-17,Quarter3,sewing,Tuesday,11,0.7,11.41,1054,3420,30,0,0,2,56,0
+2015-02-17,Quarter3,sewing,Tuesday,3,0.7,30.1,1422,6960,50,0,0,1,58,0
+2015-02-17,Quarter3,finishing,Tuesday,4,0.75,5.13,,960,0,0,0,0,8,0
+2015-02-17,Quarter3,sewing,Tuesday,5,0.8,30.1,680,7140,0,0,0,0,59,0
+2015-02-17,Quarter3,sewing,Tuesday,9,0.65,18.79,2120,5520,0,0,0,1,51,0
+2015-02-17,Quarter3,sewing,Tuesday,8,0.6,29.4,179,0,23,5,30,2,58,0
+2015-02-17,Quarter3,finishing,Tuesday,9,0.8,3.94,,960,0,0,0,0,8,0
+2015-02-17,Quarter3,finishing,Tuesday,2,0.8,5.13,,1800,0,0,0,0,15,0
+2015-02-17,Quarter3,sewing,Tuesday,2,0.5,30.33,838,6720,0,0,0,1,56,0
+2015-02-17,Quarter3,sewing,Tuesday,10,0.65,18.22,741,0,0,8,35,1,49,0
+2015-02-18,Quarter3,finishing,Wednesday,12,0.8,5.13,,1200,0,0,0,0,10,1
+2015-02-18,Quarter3,finishing,Wednesday,6,0.8,2.9,,1440,0,0,0,0,12,1
+2015-02-18,Quarter3,finishing,Wednesday,2,0.8,5.13,,1440,0,0,0,0,12,1
+2015-02-18,Quarter3,sewing,Wednesday,11,0.7,11.41,685,3360,30,0,0,2,56,1
+2015-02-18,Quarter3,sewing,Wednesday,4,0.8,30.1,864,480,50,0,0,1,58,1
+2015-02-18,Quarter3,sewing,Wednesday,5,0.8,30.1,511,0,0,0,0,0,59,1
+2015-02-18,Quarter3,sewing,Wednesday,12,0.8,15.26,1095,4080,63,0,0,0,34,1
+2015-02-18,Quarter3,sewing,Wednesday,1,0.8,22.52,1374,3960,63,0,0,0,57,1
+2015-02-18,Quarter3,sewing,Wednesday,6,0.75,18.79,759,3960,34,0,0,0,33,1
+2015-02-18,Quarter3,sewing,Wednesday,7,0.75,30.1,553,2280,45,0,0,1,59,1
+2015-02-18,Quarter3,finishing,Wednesday,4,0.75,5.13,,960,0,0,0,0,8,0
+2015-02-18,Quarter3,sewing,Wednesday,3,0.7,30.1,1057,0,40,0,0,1,58,0
+2015-02-18,Quarter3,sewing,Wednesday,9,0.7,18.79,1587,4560,30,0,0,1,51,0
+2015-02-18,Quarter3,finishing,Wednesday,7,0.7,5.13,,960,0,0,0,0,8,0
+2015-02-18,Quarter3,finishing,Wednesday,10,0.8,3.94,,960,0,0,0,0,8,0
+2015-02-18,Quarter3,finishing,Wednesday,8,0.7,5.13,,960,0,0,0,0,8,0
+2015-02-18,Quarter3,finishing,Wednesday,9,0.8,3.94,,960,0,0,0,0,8,0
+2015-02-18,Quarter3,sewing,Wednesday,2,0.6,30.33,868,6840,0,0,0,1,57,0
+2015-02-18,Quarter3,sewing,Wednesday,10,0.7,19.68,1119,5640,0,8,35,1,47,0
+2015-02-18,Quarter3,finishing,Wednesday,3,0.5,5.13,,960,0,0,0,0,8,0
+2015-02-18,Quarter3,sewing,Wednesday,8,0.65,29.4,962,4560,0,4.5,30,2,57,0
+2015-02-19,Quarter3,finishing,Thursday,3,0.5,5.13,,2880,0,0,0,0,12,1
+2015-02-19,Quarter3,sewing,Thursday,12,0.8,15.26,1126,1080,38,0,0,0,34,1
+2015-02-19,Quarter3,sewing,Thursday,1,0.8,22.52,265,3840,63,0,0,0,57,1
+2015-02-19,Quarter3,sewing,Thursday,4,0.8,30.1,859,7020,63,0,0,1,58.5,1
+2015-02-19,Quarter3,sewing,Thursday,5,0.8,30.1,276,600,63,3.5,15,0,59.5,1
+2015-02-19,Quarter3,finishing,Thursday,6,0.8,2.9,,4320,0,0,0,0,18,1
+2015-02-19,Quarter3,sewing,Thursday,6,0.75,18.79,899,3960,56,0,0,0,33,1
+2015-02-19,Quarter3,finishing,Thursday,10,0.8,3.94,,2400,0,0,0,0,10,0
+2015-02-19,Quarter3,finishing,Thursday,2,0.8,5.13,,3600,0,0,0,0,15,0
+2015-02-19,Quarter3,sewing,Thursday,3,0.7,30.1,247,6960,50,0,0,1,58,0
+2015-02-19,Quarter3,sewing,Thursday,11,0.7,11.41,653,3480,30,0,0,2,58,0
+2015-02-19,Quarter3,sewing,Thursday,8,0.7,29.4,1116,6240,0,0,0,2,57,0
+2015-02-19,Quarter3,finishing,Thursday,4,0.75,5.13,,1920,0,0,0,0,8,0
+2015-02-19,Quarter3,finishing,Thursday,8,0.7,5.13,,1920,0,0,0,0,8,0
+2015-02-19,Quarter3,sewing,Thursday,9,0.7,18.79,1603,6120,30,0,0,1,51,0
+2015-02-19,Quarter3,finishing,Thursday,5,0.75,5.13,,1920,0,0,0,0,8,0
+2015-02-19,Quarter3,sewing,Thursday,7,0.75,30.1,444,0,0,5,20,1,59,0
+2015-02-19,Quarter3,finishing,Thursday,12,0.8,5.13,,2160,0,0,0,0,9,0
+2015-02-19,Quarter3,sewing,Thursday,2,0.65,30.33,841,6840,0,0,0,1,57,0
+2015-02-19,Quarter3,sewing,Thursday,10,0.7,19.68,1410,5760,0,0,0,1,48,0
+2015-02-22,Quarter4,finishing,Sunday,3,0.5,5.13,,1800,0,0,0,0,15,1
+2015-02-22,Quarter4,finishing,Sunday,6,0.8,2.9,,960,0,0,0,0,8,1
+2015-02-22,Quarter4,finishing,Sunday,2,0.8,5.13,,4800,0,0,0,0,20,1
+2015-02-22,Quarter4,finishing,Sunday,11,0.6,2.9,,2880,0,0,0,0,12,1
+2015-02-22,Quarter4,sewing,Sunday,12,0.8,15.26,1103,4080,63,0,0,0,34,1
+2015-02-22,Quarter4,sewing,Sunday,4,0.8,30.1,922,5820,63,0,0,1,59,1
+2015-02-22,Quarter4,finishing,Sunday,12,0.8,5.13,,2400,0,0,0,0,10,1
+2015-02-22,Quarter4,finishing,Sunday,9,0.8,3.94,,2400,0,0,0,0,10,1
+2015-02-22,Quarter4,sewing,Sunday,6,0.75,18.79,1055,3960,45,0,0,0,33,1
+2015-02-22,Quarter4,finishing,Sunday,1,0.8,3.94,,2880,0,0,0,0,12,0
+2015-02-22,Quarter4,sewing,Sunday,8,0.7,29.4,1146,6840,40,0,0,2,57,0
+2015-02-22,Quarter4,sewing,Sunday,2,0.7,30.33,746,6840,0,0,0,1,57,0
+2015-02-22,Quarter4,sewing,Sunday,11,0.75,11.41,834,3480,0,0,0,2,58,0
+2015-02-22,Quarter4,sewing,Sunday,9,0.7,18.79,1717,3240,30,0,0,1,57,0
+2015-02-22,Quarter4,sewing,Sunday,3,0.7,30.1,1041,8160,33,0,0,2,58,0
+2015-02-22,Quarter4,sewing,Sunday,10,0.7,21.25,1531,6000,0,0,0,1,50,0
+2015-02-22,Quarter4,sewing,Sunday,7,0.75,30.1,627,6960,0,3.5,20,1,58,0
+2015-02-22,Quarter4,finishing,Sunday,10,0.8,3.94,,960,0,0,0,0,8,0
+2015-02-22,Quarter4,sewing,Sunday,5,0.8,30.1,450,5700,0,4.5,25,0,60,0
+2015-02-22,Quarter4,finishing,Sunday,7,0.7,5.13,,960,0,0,0,0,8,0
+2015-02-23,Quarter4,finishing,Monday,10,0.8,3.94,,2400,0,0,0,0,20,1
+2015-02-23,Quarter4,finishing,Monday,8,0.7,5.13,,960,0,0,0,0,8,1
+2015-02-23,Quarter4,finishing,Monday,12,0.8,5.13,,1080,0,0,0,0,9,1
+2015-02-23,Quarter4,finishing,Monday,3,0.8,5.13,,2160,0,0,0,0,18,1
+2015-02-23,Quarter4,sewing,Monday,12,0.8,15.26,1060,4080,63,0,0,0,34,1
+2015-02-23,Quarter4,sewing,Monday,4,0.8,30.1,891,7140,38,0,0,1,59,1
+2015-02-23,Quarter4,sewing,Monday,5,0.8,30.1,541,7140,38,0,0,0,59,1
+2015-02-23,Quarter4,sewing,Monday,7,0.75,30.1,709,6960,45,0,0,1,58,1
+2015-02-23,Quarter4,sewing,Monday,6,0.75,18.79,1100,3960,45,0,0,0,33,1
+2015-02-23,Quarter4,sewing,Monday,11,0.75,11.41,826,2820,0,0,0,2,58,1
+2015-02-23,Quarter4,sewing,Monday,2,0.7,30.33,577,2160,30,0,0,1,58,0
+2015-02-23,Quarter4,sewing,Monday,8,0.7,29.4,1094,6840,40,0,0,2,57,0
+2015-02-23,Quarter4,sewing,Monday,3,0.7,29.4,1228,6960,30,0,0,2,58,0
+2015-02-23,Quarter4,sewing,Monday,9,0.7,18.79,1641,6000,40,0,0,1,50,0
+2015-02-23,Quarter4,sewing,Monday,10,0.7,21.25,1583,6000,0,0,0,1,50,0
+2015-02-23,Quarter4,finishing,Monday,6,0.8,2.9,,960,0,0,0,0,8,0
+2015-02-23,Quarter4,finishing,Monday,9,0.8,2.9,,960,0,0,0,0,8,0
+2015-02-23,Quarter4,finishing,Monday,2,0.8,5.13,,960,0,0,0,0,8,0
+2015-02-23,Quarter4,finishing,Monday,7,0.7,5.13,,960,0,0,0,0,8,0
+2015-02-24,Quarter4,finishing,Tuesday,10,0.7,2.9,,1800,0,0,0,0,15,1
+2015-02-24,Quarter4,finishing,Tuesday,3,0.8,4.6,,1440,0,0,0,0,12,1
+2015-02-24,Quarter4,sewing,Tuesday,12,0.8,15.26,1062,4080,50,0,0,0,34,1
+2015-02-24,Quarter4,sewing,Tuesday,5,0.8,30.1,450,7140,50,0,0,0,60,1
+2015-02-24,Quarter4,sewing,Tuesday,4,0.8,30.1,901,6480,50,0,0,1,59,1
+2015-02-24,Quarter4,finishing,Tuesday,8,0.7,4.6,,960,0,0,0,0,8,1
+2015-02-24,Quarter4,sewing,Tuesday,7,0.75,30.1,739,5640,45,0,0,1,59,1
+2015-02-24,Quarter4,sewing,Tuesday,6,0.75,18.79,913,3360,45,0,0,0,33,1
+2015-02-24,Quarter4,sewing,Tuesday,11,0.75,11.61,698,3360,34,0,0,2,57,1
+2015-02-24,Quarter4,sewing,Tuesday,3,0.75,29.4,1172,5340,45,0,0,2,60,1
+2015-02-24,Quarter4,finishing,Tuesday,6,0.75,2.9,,1800,0,0,0,0,15,0
+2015-02-24,Quarter4,finishing,Tuesday,9,0.7,2.9,,1800,0,0,0,0,15,0
+2015-02-24,Quarter4,sewing,Tuesday,2,0.7,30.33,408,1680,30,0,0,1,59,0
+2015-02-24,Quarter4,sewing,Tuesday,8,0.7,29.4,1079,4560,40,0,0,2,58,0
+2015-02-24,Quarter4,sewing,Tuesday,9,0.7,18.79,1068,3000,30,0,0,1,52,0
+2015-02-24,Quarter4,finishing,Tuesday,11,0.7,2.9,,960,0,0,0,0,8,0
+2015-02-24,Quarter4,sewing,Tuesday,10,0.7,21.25,1834,6360,0,0,0,1,53,0
+2015-02-24,Quarter4,finishing,Tuesday,2,0.7,3.9,,960,0,0,0,0,8,0
+2015-02-24,Quarter4,sewing,Tuesday,1,0.6,22.53,708,5040,0,0,0,1,42,0
+2015-02-25,Quarter4,sewing,Wednesday,9,0.75,18.79,1085,6240,56,0,0,1,52,1
+2015-02-25,Quarter4,finishing,Wednesday,5,0.8,4.6,,1080,0,0,0,0,9,1
+2015-02-25,Quarter4,finishing,Wednesday,3,0.8,4.6,,2400,0,0,0,0,20,1
+2015-02-25,Quarter4,finishing,Wednesday,12,0.8,4.6,,1800,0,0,0,0,15,1
+2015-02-25,Quarter4,finishing,Wednesday,10,0.7,2.9,,1200,0,0,0,0,10,1
+2015-02-25,Quarter4,sewing,Wednesday,4,0.8,30.1,323,4080,50,0,0,1,59,1
+2015-02-25,Quarter4,sewing,Wednesday,12,0.8,15.26,1053,4080,50,0,0,0,34,1
+2015-02-25,Quarter4,sewing,Wednesday,7,0.8,30.1,786,7080,50,0,0,2,59,1
+2015-02-25,Quarter4,sewing,Wednesday,6,0.75,18.79,1003,3960,45,0,0,1,33,1
+2015-02-25,Quarter4,sewing,Wednesday,11,0.75,11.61,635,3360,45,0,0,0,57,1
+2015-02-25,Quarter4,sewing,Wednesday,3,0.75,29.4,1283,6960,45,0,0,2,58,1
+2015-02-25,Quarter4,sewing,Wednesday,8,0.7,29.4,847,6960,30,0,0,1,58,0
+2015-02-25,Quarter4,sewing,Wednesday,2,0.7,30.33,361,3960,30,0,0,1,58,0
+2015-02-25,Quarter4,sewing,Wednesday,10,0.7,21.82,1653,6240,0,0,0,2,52,0
+2015-02-25,Quarter4,finishing,Wednesday,7,0.75,4.6,,960,0,0,0,0,8,0
+2015-02-25,Quarter4,finishing,Wednesday,8,0.7,4.6,,960,0,0,0,0,8,0
+2015-02-25,Quarter4,sewing,Wednesday,5,0.8,30.1,15,1200,49,0,0,1,59,0
+2015-02-25,Quarter4,sewing,Wednesday,1,0.65,22.53,762,5040,0,0,0,1,42,0
+2015-02-25,Quarter4,finishing,Wednesday,2,0.7,3.9,,960,0,0,0,0,8,0
+2015-02-25,Quarter4,finishing,Wednesday,6,0.75,2.9,,960,0,0,0,0,8,0
+2015-02-25,Quarter4,finishing,Wednesday,9,0.7,2.9,,960,0,0,0,0,8,0
+2015-02-26,Quarter4,finishing,Thursday,3,0.8,4.6,,6300,0,0,0,0,15,1
+2015-02-26,Quarter4,finishing,Thursday,5,0.8,4.6,,7560,0,0,0,0,18,1
+2015-02-26,Quarter4,sewing,Thursday,7,0.8,30.1,694,4080,50,0,0,1,59,1
+2015-02-26,Quarter4,sewing,Thursday,11,0.8,11.61,816,2820,50,0,0,2,57,1
+2015-02-26,Quarter4,sewing,Thursday,12,0.8,15.26,1065,4080,63,0,0,0,34,1
+2015-02-26,Quarter4,finishing,Thursday,1,0.5,3.94,,3360,0,0,0,0,8,1
+2015-02-26,Quarter4,sewing,Thursday,6,0.75,18.79,912,3960,45,0,0,0,33,1
+2015-02-26,Quarter4,sewing,Thursday,3,0.75,29.4,1244,6840,45,0,0,2,57,1
+2015-02-26,Quarter4,sewing,Thursday,9,0.75,18.79,1020,5640,45,0,0,1,52,1
+2015-02-26,Quarter4,sewing,Thursday,8,0.75,29.4,916,6960,56,0,0,2,58,1
+2015-02-26,Quarter4,sewing,Thursday,10,0.7,21.82,1591,3240,0,0,0,1,52,0
+2015-02-26,Quarter4,sewing,Thursday,2,0.7,30.33,398,6960,0,0,0,1,58,0
+2015-02-26,Quarter4,finishing,Thursday,12,0.8,4.6,,3780,0,0,0,0,9,0
+2015-02-26,Quarter4,finishing,Thursday,2,0.7,3.9,,960,0,0,0,0,8,0
+2015-02-26,Quarter4,sewing,Thursday,4,0.8,30.1,437,7080,32,0,0,2,59,0
+2015-02-26,Quarter4,sewing,Thursday,5,0.35,27.48,413,6840,38,0,0,1,57,0
+2015-02-26,Quarter4,finishing,Thursday,10,0.7,2.9,,3360,0,0,0,0,8,0
+2015-02-26,Quarter4,finishing,Thursday,9,0.75,2.9,,960,0,0,0,0,8,0
+2015-02-26,Quarter4,sewing,Thursday,1,0.35,26.66,1164,6600,23,0,0,2,55,0
+2015-02-26,Quarter4,finishing,Thursday,8,0.75,4.6,,3360,0,0,0,0,8,0
+2015-02-26,Quarter4,finishing,Thursday,6,0.75,2.9,,3360,0,0,0,0,8,0
+2015-02-28,Quarter4,finishing,Saturday,3,0.8,4.6,,6300,0,0,0,0,15,1
+2015-02-28,Quarter4,finishing,Saturday,5,0.8,4.6,,7560,0,0,0,0,18,1
+2015-02-28,Quarter4,sewing,Saturday,11,0.8,11.61,954,0,50,0,0,2,58,1
+2015-02-28,Quarter4,sewing,Saturday,12,0.8,15.26,1194,1700,62,0,0,0,34,1
+2015-02-28,Quarter4,sewing,Saturday,7,0.8,30.1,644,840,38,0,0,1,59,1
+2015-02-28,Quarter4,finishing,Saturday,1,0.5,3.94,,3360,0,0,0,0,8,1
+2015-02-28,Quarter4,sewing,Saturday,3,0.75,29.4,1144,4440,45,0,0,2,57,1
+2015-02-28,Quarter4,sewing,Saturday,6,0.75,18.79,1012,3960,45,0,0,0,33,1
+2015-02-28,Quarter4,sewing,Saturday,8,0.75,29.4,792,4560,56,0,0,2,58,1
+2015-02-28,Quarter4,sewing,Saturday,9,0.75,18.79,841,6240,45,0,0,1,52,1
+2015-02-28,Quarter4,sewing,Saturday,10,0.7,21.82,1448,6120,40,0,0,1,51,0
+2015-02-28,Quarter4,sewing,Saturday,2,0.7,30.33,512,4560,0,0,0,1,58,0
+2015-02-28,Quarter4,finishing,Saturday,12,0.8,4.6,,3780,0,0,0,0,9,0
+2015-02-28,Quarter4,finishing,Saturday,2,0.7,3.9,,960,0,0,0,0,8,0
+2015-02-28,Quarter4,sewing,Saturday,5,0.5,27.48,609,6840,30,0,0,1,57,0
+2015-02-28,Quarter4,sewing,Saturday,1,0.5,26.66,1448,6840,30,0,0,2,57,0
+2015-02-28,Quarter4,sewing,Saturday,4,0.5,26.66,556,6960,23,0,0,2,58,0
+2015-02-28,Quarter4,finishing,Saturday,10,0.7,2.9,,3360,0,0,0,0,8,0
+2015-02-28,Quarter4,finishing,Saturday,9,0.75,2.9,,960,0,0,0,0,8,0
+2015-02-28,Quarter4,finishing,Saturday,8,0.75,4.6,,3360,0,0,0,0,8,0
+2015-02-28,Quarter4,finishing,Saturday,6,0.75,2.9,,3360,0,0,0,0,8,0
+2015-03-01,Quarter1,finishing,Sunday,3,0.8,4.6,,10500,0,0,0,0,25,1
+2015-03-01,Quarter1,finishing,Sunday,8,0.75,4.6,,3360,0,0,0,0,8,1
+2015-03-01,Quarter1,sewing,Sunday,12,0.8,15.26,1106,4080,63,0,0,0,34,1
+2015-03-01,Quarter1,sewing,Sunday,8,0.75,29.4,622,6240,56,0,0,0,57,1
+2015-03-01,Quarter1,sewing,Sunday,6,0.75,18.79,1193,3960,45,0,0,0,33,1
+2015-03-01,Quarter1,sewing,Sunday,3,0.75,29.4,1143,6840,45,0,0,0,57,1
+2015-03-01,Quarter1,sewing,Sunday,9,0.75,18.79,895,6240,34,0,0,0,52,1
+2015-03-01,Quarter1,sewing,Sunday,5,0.6,27.48,549,6720,38,0,0,0,56,0
+2015-03-01,Quarter1,sewing,Sunday,10,0.7,21.82,1393,5640,30,0,0,0,52,0
+2015-03-01,Quarter1,sewing,Sunday,1,0.6,26.66,1578,6840,38,0,0,0,57,0
+2015-03-01,Quarter1,sewing,Sunday,2,0.7,30.33,254,1800,0,0,0,0,58,0
+2015-03-01,Quarter1,sewing,Sunday,11,0.8,11.61,347,0,50,4,20,0,57,0
+2015-03-01,Quarter1,finishing,Sunday,4,0.6,3.94,,960,0,0,0,0,8,0
+2015-03-01,Quarter1,finishing,Sunday,10,0.7,2.9,,3360,0,0,0,0,8,0
+2015-03-01,Quarter1,sewing,Sunday,4,0.6,26.66,692,6840,23,0,0,0,57,0
+2015-03-01,Quarter1,finishing,Sunday,2,0.7,3.9,,960,0,0,0,0,8,0
+2015-03-01,Quarter1,sewing,Sunday,7,0.8,30.1,934,6960,0,3.5,15,0,58,0
+2015-03-01,Quarter1,finishing,Sunday,1,0.6,3.94,,3360,0,0,0,0,8,0
+2015-03-01,Quarter1,finishing,Sunday,9,0.75,2.9,,960,0,0,0,0,8,0
+2015-03-01,Quarter1,finishing,Sunday,7,0.8,4.6,,3360,0,0,0,0,8,0
+2015-03-02,Quarter1,finishing,Monday,2,0.7,3.9,,1200,0,0,0,0,10,1
+2015-03-02,Quarter1,finishing,Monday,3,0.8,4.6,,10080,0,0,0,0,24,1
+2015-03-02,Quarter1,finishing,Monday,4,0.65,3.94,,960,0,0,0,0,8,1
+2015-03-02,Quarter1,sewing,Monday,1,0.65,26.66,1527,6840,65,0,0,0,57,1
+2015-03-02,Quarter1,sewing,Monday,12,0.8,15.26,1035,4080,63,0,0,0,34,1
+2015-03-02,Quarter1,finishing,Monday,9,0.75,2.9,,1200,0,0,0,0,10,1
+2015-03-02,Quarter1,sewing,Monday,11,0.8,11.61,632,0,50,0,0,0,57,1
+2015-03-02,Quarter1,sewing,Monday,3,0.8,29.4,1231,4680,50,0,0,0,57,1
+2015-03-02,Quarter1,sewing,Monday,7,0.8,30.1,616,7080,0,0,0,0,59,1
+2015-03-02,Quarter1,finishing,Monday,8,0.75,4.6,,3360,0,0,0,0,8,1
+2015-03-02,Quarter1,sewing,Monday,6,0.75,18.79,947,2880,34,0,0,0,33,1
+2015-03-02,Quarter1,sewing,Monday,8,0.75,29.4,551,6840,45,0,0,0,57,1
+2015-03-02,Quarter1,sewing,Monday,9,0.75,18.79,935,6240,45,0,0,0,52,1
+2015-03-02,Quarter1,sewing,Monday,4,0.65,26.66,832,6780,55,0,0,0,57,1
+2015-03-02,Quarter1,sewing,Monday,5,0.65,27.48,544,6720,34,0,0,0,56,0
+2015-03-02,Quarter1,sewing,Monday,10,0.7,21.82,1511,3600,30,0,0,0,51,0
+2015-03-02,Quarter1,finishing,Monday,10,0.7,2.9,,3360,0,0,0,0,8,0
+2015-03-02,Quarter1,finishing,Monday,12,0.8,4.6,,3780,0,0,0,0,9,0
+2015-03-02,Quarter1,finishing,Monday,1,0.65,3.94,,3360,0,0,0,0,8,0
+2015-03-02,Quarter1,finishing,Monday,7,0.8,4.6,,3360,0,0,0,0,8,0
+2015-03-03,Quarter1,finishing,Tuesday,7,0.8,4.6,,4200,0,0,0,0,10,1
+2015-03-03,Quarter1,finishing,Tuesday,3,0.8,4.6,,6300,0,0,0,0,15,1
+2015-03-03,Quarter1,sewing,Tuesday,11,0.8,11.41,601,0,50,0,0,0,56,1
+2015-03-03,Quarter1,sewing,Tuesday,1,0.7,26.66,1562,6960,60,0,0,0,58,1
+2015-03-03,Quarter1,sewing,Tuesday,12,0.8,15.26,983,4080,50,0,0,0,34,1
+2015-03-03,Quarter1,sewing,Tuesday,3,0.8,29.4,1156,6840,50,0,0,0,57,1
+2015-03-03,Quarter1,sewing,Tuesday,7,0.8,30.1,29,7080,50,0,0,0,59,1
+2015-03-03,Quarter1,sewing,Tuesday,4,0.7,26.66,950,6960,50,0,0,0,58,1
+2015-03-03,Quarter1,sewing,Tuesday,8,0.75,29.4,534,6840,56,0,0,0,57,1
+2015-03-03,Quarter1,sewing,Tuesday,9,0.75,18.79,1096,6240,34,0,0,0,52,1
+2015-03-03,Quarter1,sewing,Tuesday,6,0.75,20.2,402,3120,45,0,0,0,33,1
+2015-03-03,Quarter1,finishing,Tuesday,8,0.75,4.6,,3360,0,0,0,0,8,0
+2015-03-03,Quarter1,sewing,Tuesday,5,0.7,27.48,573,6840,30,0,0,0,57,0
+2015-03-03,Quarter1,sewing,Tuesday,10,0.7,21.82,1313,5040,30,0,0,0,51,0
+2015-03-03,Quarter1,finishing,Tuesday,12,0.8,4.6,,3780,0,0,0,0,9,0
+2015-03-03,Quarter1,finishing,Tuesday,2,0.4,3.9,,6300,0,0,0,0,15,0
+2015-03-03,Quarter1,finishing,Tuesday,1,0.7,3.94,,3360,0,0,0,0,8,0
+2015-03-03,Quarter1,finishing,Tuesday,4,0.7,3.94,,3360,0,0,0,0,8,0
+2015-03-03,Quarter1,finishing,Tuesday,10,0.7,2.9,,3360,0,0,0,0,8,0
+2015-03-03,Quarter1,finishing,Tuesday,5,0.7,4.6,,3360,0,0,0,0,8,0
+2015-03-03,Quarter1,finishing,Tuesday,6,0.75,2.9,,3360,0,0,0,0,8,0
+2015-03-03,Quarter1,sewing,Tuesday,2,0.4,15.28,157,5400,0,6.5,30,1,45,0
+2015-03-04,Quarter1,finishing,Wednesday,3,0.8,4.6,,1200,0,0,0,0,10,1
+2015-03-04,Quarter1,finishing,Wednesday,8,0.8,4.6,,960,0,0,0,0,8,1
+2015-03-04,Quarter1,finishing,Wednesday,12,0.8,4.6,,1080,0,0,0,0,9,1
+2015-03-04,Quarter1,finishing,Wednesday,9,0.75,2.9,,960,0,0,0,0,8,1
+2015-03-04,Quarter1,finishing,Wednesday,1,0.7,3.94,,960,0,0,0,0,8,1
+2015-03-04,Quarter1,finishing,Wednesday,4,0.7,3.94,,960,0,0,0,0,8,1
+2015-03-04,Quarter1,sewing,Wednesday,11,0.8,11.41,433,0,38,0,0,0,56,1
+2015-03-04,Quarter1,sewing,Wednesday,12,0.8,15.26,961,4080,50,0,0,0,34,1
+2015-03-04,Quarter1,sewing,Wednesday,3,0.8,29.4,1169,6840,63,0,0,0,57,1
+2015-03-04,Quarter1,sewing,Wednesday,7,0.8,30.1,874,3960,50,0,0,0,59,1
+2015-03-04,Quarter1,sewing,Wednesday,4,0.7,26.82,1028,6960,60,0,0,0,58,1
+2015-03-04,Quarter1,sewing,Wednesday,1,0.7,26.82,1772,6960,50,0,0,0,58,1
+2015-03-04,Quarter1,sewing,Wednesday,9,0.75,18.79,1206,6240,34,0,0,0,52,1
+2015-03-04,Quarter1,sewing,Wednesday,5,0.7,27.48,586,6960,40,0,0,0,58,0
+2015-03-04,Quarter1,sewing,Wednesday,10,0.7,21.82,1334,5760,30,0,0,0,53,0
+2015-03-04,Quarter1,finishing,Wednesday,7,0.8,4.6,,8400,0,0,0,0,20,0
+2015-03-04,Quarter1,finishing,Wednesday,5,0.7,4.6,,960,0,0,0,0,8,0
+2015-03-04,Quarter1,finishing,Wednesday,2,0.5,3.9,,960,0,0,0,0,8,0
+2015-03-04,Quarter1,sewing,Wednesday,8,0.8,29.4,30,6840,0,0,0,0,57,0
+2015-03-04,Quarter1,sewing,Wednesday,2,0.5,15.28,261,5520,0,0,0,1,46,0
+2015-03-04,Quarter1,sewing,Wednesday,6,0.75,18.79,52,3960,0,0,0,0,33,0
+2015-03-05,Quarter1,finishing,Thursday,8,0.8,4.6,,2640,0,0,0,0,22,1
+2015-03-05,Quarter1,finishing,Thursday,2,0.6,3.9,,960,0,0,0,0,8,1
+2015-03-05,Quarter1,finishing,Thursday,11,0.8,2.9,,1200,0,0,0,0,10,1
+2015-03-05,Quarter1,finishing,Thursday,12,0.8,4.6,,1080,0,0,0,0,9,1
+2015-03-05,Quarter1,finishing,Thursday,1,0.7,3.94,,960,0,0,0,0,8,1
+2015-03-05,Quarter1,finishing,Thursday,4,0.7,3.94,,960,0,0,0,0,8,1
+2015-03-05,Quarter1,finishing,Thursday,3,0.8,4.6,,1800,0,0,0,0,15,1
+2015-03-05,Quarter1,sewing,Thursday,11,0.8,11.41,455,3420,50,0,0,0,56,1
+2015-03-05,Quarter1,sewing,Thursday,3,0.8,29.4,797,1800,63,0,0,0,57,1
+2015-03-05,Quarter1,sewing,Thursday,12,0.8,15.26,959,4080,50,0,0,0,34,1
+2015-03-05,Quarter1,sewing,Thursday,1,0.7,26.82,1373,6960,50,0,0,0,58,1
+2015-03-05,Quarter1,sewing,Thursday,9,0.75,18.79,1228,6240,45,0,0,0,52,1
+2015-03-05,Quarter1,sewing,Thursday,4,0.7,26.82,1117,7080,50,0,0,0,59,1
+2015-03-05,Quarter1,sewing,Thursday,5,0.7,27.48,230,6960,40,0,0,0,58,0
+2015-03-05,Quarter1,sewing,Thursday,10,0.7,21.82,1390,6000,30,0,0,0,50,0
+2015-03-05,Quarter1,sewing,Thursday,2,0.6,15.28,529,1320,0,0,0,1,46,0
+2015-03-05,Quarter1,finishing,Thursday,9,0.75,2.9,,960,0,0,0,0,8,0
+2015-03-05,Quarter1,sewing,Thursday,7,0.8,30.1,834,1200,0,4,40,0,59,0
+2015-03-05,Quarter1,sewing,Thursday,6,0.35,22.53,1450,2640,0,0,0,1,39,0
+2015-03-07,Quarter1,finishing,Saturday,12,0.8,4.6,,1080,0,0,0,0,9,1
+2015-03-07,Quarter1,sewing,Saturday,12,0.8,15.26,986,4080,75,0,0,0,34,1
+2015-03-07,Quarter1,sewing,Saturday,1,0.7,26.82,1267,8160,70,0,0,0,58,1
+2015-03-07,Quarter1,finishing,Saturday,7,0.8,4.6,,6000,0,0,0,0,25,1
+2015-03-07,Quarter1,finishing,Saturday,5,0.35,3.94,,2400,0,0,0,0,10,1
+2015-03-07,Quarter1,sewing,Saturday,4,0.7,26.82,1195,6960,60,0,0,0,58,1
+2015-03-07,Quarter1,sewing,Saturday,3,0.8,29.4,983,6840,63,0,0,1,57,1
+2015-03-07,Quarter1,sewing,Saturday,11,0.8,11.41,471,3420,50,0,0,0,58,1
+2015-03-07,Quarter1,finishing,Saturday,6,0.5,2.9,,960,0,0,0,0,8,1
+2015-03-07,Quarter1,sewing,Saturday,9,0.75,18.79,1226,3480,45,0,0,0,51,1
+2015-03-07,Quarter1,sewing,Saturday,10,0.7,21.82,1251,6000,30,0,0,0,50,0
+2015-03-07,Quarter1,finishing,Saturday,1,0.7,3.94,,960,0,0,0,0,8,0
+2015-03-07,Quarter1,finishing,Saturday,4,0.7,3.94,,960,0,0,0,0,8,0
+2015-03-07,Quarter1,finishing,Saturday,11,0.8,2.9,,960,0,0,0,0,8,0
+2015-03-07,Quarter1,sewing,Saturday,2,0.65,16.1,626,4200,0,0,0,1,45,0
+2015-03-07,Quarter1,finishing,Saturday,8,0.8,4.6,,3600,0,0,0,0,15,0
+2015-03-07,Quarter1,finishing,Saturday,2,0.65,3.9,,1920,0,0,0,0,8,0
+2015-03-07,Quarter1,sewing,Saturday,6,0.5,23.41,1379,2280,0,0,0,1,39,0
+2015-03-07,Quarter1,sewing,Saturday,5,0.7,27.48,541,6960,24,0,0,1,58,0
+2015-03-08,Quarter2,finishing,Sunday,3,0.8,4.6,,1440,0,0,0,0,12,1
+2015-03-08,Quarter2,finishing,Sunday,12,0.8,4.6,,1080,0,0,0,0,9,1
+2015-03-08,Quarter2,finishing,Sunday,9,0.75,2.9,,1080,0,0,0,0,9,1
+2015-03-08,Quarter2,finishing,Sunday,1,0.75,3.94,,960,0,0,0,0,8,1
+2015-03-08,Quarter2,finishing,Sunday,4,0.75,3.94,,960,0,0,0,0,8,1
+2015-03-08,Quarter2,finishing,Sunday,2,0.7,3.9,,1200,0,0,0,0,10,1
+2015-03-08,Quarter2,finishing,Sunday,5,0.5,3.94,,960,0,0,0,0,8,1
+2015-03-08,Quarter2,sewing,Sunday,4,0.75,26.82,1082,6840,65,0,0,0,57,1
+2015-03-08,Quarter2,sewing,Sunday,1,0.75,26.82,1254,6960,65,0,0,0,58,1
+2015-03-08,Quarter2,sewing,Sunday,3,0.8,30.1,1278,3360,50,0,0,1,57,1
+2015-03-08,Quarter2,sewing,Sunday,12,0.8,15.26,1064,4080,63,0,0,0,34,1
+2015-03-08,Quarter2,sewing,Sunday,11,0.8,11.41,313,3420,50,0,0,0,58,1
+2015-03-08,Quarter2,finishing,Sunday,11,0.8,2.9,,960,0,0,0,0,8,1
+2015-03-08,Quarter2,sewing,Sunday,9,0.75,18.79,1239,5640,45,0,0,0,52,1
+2015-03-08,Quarter2,sewing,Sunday,10,0.7,21.82,1335,6000,30,0,0,0,50,0
+2015-03-08,Quarter2,sewing,Sunday,2,0.7,16.1,928,4800,30,0,0,1,45,0
+2015-03-08,Quarter2,sewing,Sunday,6,0.6,23.41,1266,2520,23,0,0,1,38,0
+2015-03-08,Quarter2,sewing,Sunday,8,0.6,30.48,869,6720,0,0,0,1,56,0
+2015-03-08,Quarter2,sewing,Sunday,5,0.5,26.82,711,7080,23,0,0,1,59,0
+2015-03-08,Quarter2,finishing,Sunday,8,0.6,3.9,,960,0,0,0,0,8,0
+2015-03-08,Quarter2,finishing,Sunday,10,0.7,2.9,,960,0,0,0,0,8,0
+2015-03-08,Quarter2,finishing,Sunday,6,0.6,2.9,,960,0,0,0,0,8,0
+2015-03-09,Quarter2,finishing,Monday,11,0.8,2.9,,0,960,0,0,0,8,1
+2015-03-09,Quarter2,finishing,Monday,12,0.8,4.6,,0,1080,0,0,0,9,1
+2015-03-09,Quarter2,finishing,Monday,5,0.6,3.94,,0,2880,0,0,0,12,1
+2015-03-09,Quarter2,sewing,Monday,4,0.75,26.82,1079,7020,65,0,0,0,58,1
+2015-03-09,Quarter2,sewing,Monday,1,0.75,26.82,1322,7140,65,0,0,0,59,1
+2015-03-09,Quarter2,finishing,Monday,9,0.75,2.9,,0,3600,0,0,0,15,1
+2015-03-09,Quarter2,sewing,Monday,3,0.8,30.1,964,5160,50,0,0,1,58,1
+2015-03-09,Quarter2,sewing,Monday,12,0.8,15.26,1132,4080,63,0,0,0,34,1
+2015-03-09,Quarter2,sewing,Monday,11,0.8,11.41,357,3420,50,0,0,0,58,1
+2015-03-09,Quarter2,finishing,Monday,3,0.8,4.6,,0,1440,0,0,0,12,1
+2015-03-09,Quarter2,finishing,Monday,4,0.75,3.94,,0,960,0,0,0,8,1
+2015-03-09,Quarter2,finishing,Monday,1,0.75,3.94,,0,960,0,0,0,8,1
+2015-03-09,Quarter2,sewing,Monday,9,0.75,18.79,1193,6240,45,0,0,0,52,1
+2015-03-09,Quarter2,sewing,Monday,2,0.7,16.1,817,5520,30,0,0,1,45,0
+2015-03-09,Quarter2,sewing,Monday,10,0.7,21.82,1576,6000,30,0,0,0,50,0
+2015-03-09,Quarter2,finishing,Monday,2,0.7,3.9,,0,1200,0,0,0,10,0
+2015-03-09,Quarter2,sewing,Monday,6,0.65,23.41,1262,4560,35,0,0,1,38,0
+2015-03-09,Quarter2,sewing,Monday,8,0.65,30.48,953,6720,26,0,0,1,56,0
+2015-03-09,Quarter2,sewing,Monday,5,0.6,26.82,919,7080,23,0,0,1,59,0
+2015-03-09,Quarter2,sewing,Monday,7,0.5,30.48,1161,6600,0,0,0,1,55,0
+2015-03-09,Quarter2,finishing,Monday,10,0.7,2.9,,0,960,0,0,0,8,0
+2015-03-09,Quarter2,finishing,Monday,8,0.65,3.9,,0,960,0,0,0,8,0
+2015-03-10,Quarter2,finishing,Tuesday,12,0.8,4.6,,1080,0,0,0,0,9,1
+2015-03-10,Quarter2,finishing,Tuesday,5,0.6,3.94,,1440,0,0,0,0,12,1
+2015-03-10,Quarter2,sewing,Tuesday,1,0.75,26.82,1574,7080,75,0,0,0,59,1
+2015-03-10,Quarter2,finishing,Tuesday,3,0.8,4.6,,1440,0,0,0,0,12,1
+2015-03-10,Quarter2,finishing,Tuesday,4,0.75,3.94,,960,0,0,0,0,8,1
+2015-03-10,Quarter2,finishing,Tuesday,1,0.75,3.94,,960,0,0,0,0,8,1
+2015-03-10,Quarter2,sewing,Tuesday,4,0.75,26.82,1104,5880,65,0,0,0,59,1
+2015-03-10,Quarter2,finishing,Tuesday,9,0.75,2.9,,1800,0,0,0,0,15,1
+2015-03-10,Quarter2,sewing,Tuesday,12,0.8,15.26,1069,4080,63,0,0,0,34,1
+2015-03-10,Quarter2,sewing,Tuesday,3,0.8,30.1,756,6960,63,0,0,1,58,1
+2015-03-10,Quarter2,sewing,Tuesday,11,0.8,11.41,338,3420,50,0,0,0,58,1
+2015-03-10,Quarter2,finishing,Tuesday,11,0.8,2.9,,960,0,0,0,0,8,1
+2015-03-10,Quarter2,sewing,Tuesday,10,0.75,21.82,1499,6000,34,0,0,0,50,1
+2015-03-10,Quarter2,sewing,Tuesday,9,0.75,18.79,1247,6240,45,0,0,0,52,1
+2015-03-10,Quarter2,finishing,Tuesday,2,0.7,3.9,,960,0,0,0,0,8,1
+2015-03-10,Quarter2,sewing,Tuesday,8,0.7,30.48,923,6840,30,0,0,1,57,0
+2015-03-10,Quarter2,sewing,Tuesday,6,0.7,23.41,1180,4560,30,0,0,1,38,0
+2015-03-10,Quarter2,sewing,Tuesday,2,0.7,16.1,957,5400,40,0,0,1,45,0
+2015-03-10,Quarter2,sewing,Tuesday,5,0.65,26.82,1001,7080,26,0,0,1,59,0
+2015-03-10,Quarter2,sewing,Tuesday,7,0.6,30.48,1017,6840,25,0,0,1,57,0
+2015-03-10,Quarter2,finishing,Tuesday,8,0.65,3.9,,960,0,0,0,0,8,0
+2015-03-10,Quarter2,finishing,Tuesday,7,0.5,3.9,,960,0,0,0,0,8,0
+2015-03-10,Quarter2,finishing,Tuesday,10,0.7,2.9,,960,0,0,0,0,8,0
+2015-03-11,Quarter2,finishing,Wednesday,12,0.8,4.6,,2160,0,0,0,0,9,1
+2015-03-11,Quarter2,finishing,Wednesday,11,0.8,2.9,,2400,0,0,0,0,10,1
+2015-03-11,Quarter2,finishing,Wednesday,2,0.75,3.9,,1920,0,0,0,0,8,1
+2015-03-11,Quarter2,finishing,Wednesday,4,0.75,3.94,,1920,0,0,0,0,8,1
+2015-03-11,Quarter2,finishing,Wednesday,1,0.75,3.94,,1920,0,0,0,0,8,1
+2015-03-11,Quarter2,sewing,Wednesday,12,0.8,15.26,470,4080,63,0,0,0,34,1
+2015-03-11,Quarter2,sewing,Wednesday,3,0.8,30.1,735,6960,63,0,0,1,58,1
+2015-03-11,Quarter2,sewing,Wednesday,11,0.8,11.41,560,3420,50,0,0,0,58,1
+2015-03-11,Quarter2,finishing,Wednesday,3,0.8,4.6,,1920,0,0,0,0,8,1
+2015-03-11,Quarter2,finishing,Wednesday,5,0.7,3.94,,1440,0,0,0,0,12,1
+2015-03-11,Quarter2,sewing,Wednesday,10,0.75,21.82,1674,6000,34,0,0,0,50,1
+2015-03-11,Quarter2,sewing,Wednesday,9,0.75,18.79,290,5040,45,0,0,0,52,1
+2015-03-11,Quarter2,sewing,Wednesday,2,0.75,16.1,971,5400,45,0,0,1,45,1
+2015-03-11,Quarter2,sewing,Wednesday,1,0.75,26.82,1322,7080,45,0,0,0,59,1
+2015-03-11,Quarter2,sewing,Wednesday,4,0.75,26.82,1054,7080,45,0,0,0,59,1
+2015-03-11,Quarter2,sewing,Wednesday,5,0.7,26.82,992,6960,30,0,0,1,58,0
+2015-03-11,Quarter2,sewing,Wednesday,8,0.7,30.48,914,6840,30,0,0,1,57,0
+2015-03-11,Quarter2,sewing,Wednesday,6,0.7,23.41,1128,4560,40,0,0,1,38,0
+2015-03-11,Quarter2,sewing,Wednesday,7,0.65,30.48,935,6840,26,0,0,1,57,0
+2015-03-11,Quarter2,finishing,Wednesday,10,0.75,2.9,,960,0,0,0,0,8,0
+2015-03-11,Quarter2,finishing,Wednesday,8,0.7,3.9,,960,0,0,0,0,8,0
+2015-03-11,Quarter2,finishing,Wednesday,7,0.65,3.9,,960,0,0,0,0,8,0
+2015-03-11,Quarter2,finishing,Wednesday,9,0.75,2.9,,1800,0,0,0,0,15,0
+2015-03-11,Quarter2,finishing,Wednesday,6,0.7,2.9,,720,0,0,0,0,6,0
